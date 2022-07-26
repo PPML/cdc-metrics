@@ -142,9 +142,13 @@ c_plot = c %>% gather(var, value, hosp_case, cfr_in_21_days, hfr_in_21_days) %>%
 
 ggplot(c_plot,
        aes(x = ymd, y = value, group = state, col = state, alpha = lty)) + geom_line() + 
-  theme_bw() + ylim(0, NA) + 
+  ylim(0, NA) + 
   geom_line(data = c_plot %>% filter(state=="National"), aes(x = ymd, y = value), lwd = .5) + 
-  theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),
+  theme_bw() + 
+  theme(axis.line = element_line(colour = "black"),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.border = element_blank(),
         panel.background = element_blank(),
         axis.text.x=element_text(size = 7, angle=60, hjust=1),
         strip.text=element_text(size = 10),

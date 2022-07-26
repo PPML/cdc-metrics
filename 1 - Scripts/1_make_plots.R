@@ -56,11 +56,15 @@ plot1 = ggplot(dg %>% filter(ymd <= "2022-05-15"), aes(x = ymd + 21, y = deaths_
             size = 2) + 
   scale_x_date(date_breaks = "3 months", date_labels =  "%b %Y") +
   scale_color_brewer(guide = "none", name = "", palette = "Set1") + 
-  theme_minimal() + 
-  theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),
-        panel.background = element_blank(), 
-        axis.line = element_blank(),
+  theme_bw() + 
+  theme(axis.line = element_line(colour = "black"),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.border = element_blank(),
+        panel.background = element_blank(),
         axis.text.x=element_text(size = 7, angle=60, hjust=1),
+        strip.background = element_blank(),
+        plot.title = element_text(face = "bold"),
         strip.text=element_text(size = 9, vjust = -1.3)) + 
   labs(x = "", y = "Average weekly deaths per 100K population") + 
   geom_hline(yintercept = 0.9, lty = 3) 
