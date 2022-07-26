@@ -40,7 +40,8 @@ dg = dg %>%
     label = paste(CTYNAME, ", ", ABBR, sep = "")) %>%
   mutate(epoch = case_when(ymd<"2021-10-01"~"Per 1", 
                            ymd>="2021-10-01" & ymd<"2022-02-01"~"Per 2",
-                           ymd >= "2022-02-01"~"Per 3"))
+                           ymd >= "2022-02-01"~"Per 3")) %>%
+  mutate(ep = sapply(1:n(), function(a) sum(trigger_on2[1:a])))
 
 num_ep = dg %>% filter(trigger_on | trigger_off) %>% group_by(label) %>% arrange(date) %>%
   mutate(ep = sapply(1:n(), function(a) sum(trigger_on[1:a]))) %>%
@@ -161,7 +162,8 @@ dh = dg %>% filter(county_rank %in% ranks) %>%
 plot1 = ggplot(dh %>% filter(ymd <= "2022-05-15"), aes(x = ymd + 21, y = deaths_21_lag_100k*7)) +
   geom_line(col = "grey", lwd = .3) + 
   geom_line(data = dh %>% filter(cdc_flag), 
-            aes(x = ymd + 21, y = deaths_21_lag_100k*7, group = paste(state, epoch)), col = "navy", lwd = .3) +
+            aes(x = ymd + 21, y = deaths_21_lag_100k*7, group = ep), 
+            col = "navy", lwd = .3) +
   facet_wrap(.~label, ncol = 6) + 
   geom_point(data = dh %>% filter(trigger_on2), pch = 16, col = "navy",
              aes(x = ymd + 21, y = deaths_21_lag_100k*7)) + 

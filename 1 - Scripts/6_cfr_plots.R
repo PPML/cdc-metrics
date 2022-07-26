@@ -7,7 +7,7 @@ load(here("0 - Data", "combined_data.RData"))
 
 # state data frame
 # subset to weekly data
-d = df %>% filter(dotw == "Saturday") %>%
+d = df %>% filter(dotw == "Wednesday") %>%
   summarize(ymd = ymd,
             state = state,
             REGION = REGION,
@@ -131,6 +131,7 @@ c = d %>% dplyr::select(ymd, hosp_case, cfr_in_21_days, hfr_in_21_days, state) %
 
 ####*************************** PLOTS *******************************####
 cols = c("black", brewer.pal(4, "Set2"))
+
 c_plot = c %>% gather(var, value, hosp_case, cfr_in_21_days, hfr_in_21_days) %>%
   mutate(var = factor(var, levels = c("hosp_case", "cfr_in_21_days", "hfr_in_21_days")),
          state = factor(state, levels = c("National", "Northeast", "Midwest", "South", "West")),
@@ -138,12 +139,13 @@ c_plot = c %>% gather(var, value, hosp_case, cfr_in_21_days, hfr_in_21_days) %>%
          var2 = ifelse(var=="hfr_in_21_days", "21d-lagged HFR (%)", var2),
          var2 = factor(var2, levels = c( "New admission:New case ratio", "21d-lagged CFR (%)",  "21d-lagged HFR (%)")),
          lty = state=="National") %>%
-  filter(id!="state" & ymd >= "2021-06-01")
-
+  filter(id!="state" & ymd >= "2021-05-29") %>%
+  filter((var%in%c("cfr_in_21_days", "hfr_in_21_days") & ymd <= "2022-05-12") | (var=="hosp_case" & ymd <= "2022-06-05"))
+         
 ggplot(c_plot,
        aes(x = ymd, y = value, group = state, col = state, alpha = lty)) + geom_line() + 
   ylim(0, NA) + 
-  geom_line(data = c_plot %>% filter(state=="National"), aes(x = ymd, y = value), lwd = .5) + 
+  geom_line(data = c_plot %>% filter(state=="National" & ymd >= "2021-05-29" & ymd <= "2022-05-12"), aes(x = ymd, y = value), lwd = .5) + 
   theme_bw() + 
   theme(axis.line = element_line(colour = "black"),
         panel.grid.major = element_blank(),
