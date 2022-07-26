@@ -1,0 +1,871 @@
+"","ymd","state","id","region","var","value","var2","lty"
+"1",2021-06-05,"Northeast","regional","Northeast","hosp_case",16.3951927175422,"New admission:New case ratio",FALSE
+"2",2021-06-12,"Northeast","regional","Northeast","hosp_case",16.4645189616377,"New admission:New case ratio",FALSE
+"3",2021-06-19,"Northeast","regional","Northeast","hosp_case",16.6063444751969,"New admission:New case ratio",FALSE
+"4",2021-06-26,"Northeast","regional","Northeast","hosp_case",18.4508525647787,"New admission:New case ratio",FALSE
+"5",2021-07-03,"Northeast","regional","Northeast","hosp_case",16.8123258638344,"New admission:New case ratio",FALSE
+"6",2021-07-10,"Northeast","regional","Northeast","hosp_case",13.7285483595952,"New admission:New case ratio",FALSE
+"7",2021-07-17,"Northeast","regional","Northeast","hosp_case",8.86837313623842,"New admission:New case ratio",FALSE
+"8",2021-07-24,"Northeast","regional","Northeast","hosp_case",7.05180177183494,"New admission:New case ratio",FALSE
+"9",2021-07-31,"Northeast","regional","Northeast","hosp_case",6.31227053502772,"New admission:New case ratio",FALSE
+"10",2021-08-07,"Northeast","regional","Northeast","hosp_case",5.97740054790412,"New admission:New case ratio",FALSE
+"11",2021-08-14,"Northeast","regional","Northeast","hosp_case",6.58111126436768,"New admission:New case ratio",FALSE
+"12",2021-08-21,"Northeast","regional","Northeast","hosp_case",6.64239295549708,"New admission:New case ratio",FALSE
+"13",2021-08-28,"Northeast","regional","Northeast","hosp_case",6.65073500017958,"New admission:New case ratio",FALSE
+"14",2021-09-04,"Northeast","regional","Northeast","hosp_case",6.43387028401865,"New admission:New case ratio",FALSE
+"15",2021-09-11,"Northeast","regional","Northeast","hosp_case",6.37015502354512,"New admission:New case ratio",FALSE
+"16",2021-09-18,"Northeast","regional","Northeast","hosp_case",5.78471499826209,"New admission:New case ratio",FALSE
+"17",2021-09-25,"Northeast","regional","Northeast","hosp_case",5.86346783664148,"New admission:New case ratio",FALSE
+"18",2021-10-02,"Northeast","regional","Northeast","hosp_case",6.12297282537399,"New admission:New case ratio",FALSE
+"19",2021-10-09,"Northeast","regional","Northeast","hosp_case",5.70964140955212,"New admission:New case ratio",FALSE
+"20",2021-10-16,"Northeast","regional","Northeast","hosp_case",6.38029966714464,"New admission:New case ratio",FALSE
+"21",2021-10-23,"Northeast","regional","Northeast","hosp_case",6.75505373348551,"New admission:New case ratio",FALSE
+"22",2021-10-30,"Northeast","regional","Northeast","hosp_case",6.44906315960817,"New admission:New case ratio",FALSE
+"23",2021-11-06,"Northeast","regional","Northeast","hosp_case",5.96875933681258,"New admission:New case ratio",FALSE
+"24",2021-11-13,"Northeast","regional","Northeast","hosp_case",5.28810232631051,"New admission:New case ratio",FALSE
+"25",2021-11-20,"Northeast","regional","Northeast","hosp_case",5.16244761832353,"New admission:New case ratio",FALSE
+"26",2021-11-27,"Northeast","regional","Northeast","hosp_case",5.82095444191328,"New admission:New case ratio",FALSE
+"27",2021-12-04,"Northeast","regional","Northeast","hosp_case",5.33093373218208,"New admission:New case ratio",FALSE
+"28",2021-12-11,"Northeast","regional","Northeast","hosp_case",5.04507278382034,"New admission:New case ratio",FALSE
+"29",2021-12-18,"Northeast","regional","Northeast","hosp_case",4.56954120202984,"New admission:New case ratio",FALSE
+"30",2021-12-25,"Northeast","regional","Northeast","hosp_case",3.12417244087054,"New admission:New case ratio",FALSE
+"31",2022-01-01,"Northeast","regional","Northeast","hosp_case",2.7214203655272,"New admission:New case ratio",FALSE
+"32",2022-01-08,"Northeast","regional","Northeast","hosp_case",2.61204883735497,"New admission:New case ratio",FALSE
+"33",2022-01-15,"Northeast","regional","Northeast","hosp_case",2.88837585511445,"New admission:New case ratio",FALSE
+"34",2022-01-22,"Northeast","regional","Northeast","hosp_case",3.66786797120457,"New admission:New case ratio",FALSE
+"35",2022-01-29,"Northeast","regional","Northeast","hosp_case",4.61831984818836,"New admission:New case ratio",FALSE
+"36",2022-02-05,"Northeast","regional","Northeast","hosp_case",6.08828646060536,"New admission:New case ratio",FALSE
+"37",2022-02-12,"Northeast","regional","Northeast","hosp_case",6.26523323015878,"New admission:New case ratio",FALSE
+"38",2022-02-19,"Northeast","regional","Northeast","hosp_case",6.29532774412175,"New admission:New case ratio",FALSE
+"39",2022-02-26,"Northeast","regional","Northeast","hosp_case",7.12632330600059,"New admission:New case ratio",FALSE
+"40",2022-03-05,"Northeast","regional","Northeast","hosp_case",7.76170891738281,"New admission:New case ratio",FALSE
+"41",2022-03-12,"Northeast","regional","Northeast","hosp_case",7.18038158049246,"New admission:New case ratio",FALSE
+"42",2022-03-19,"Northeast","regional","Northeast","hosp_case",6.07529160591824,"New admission:New case ratio",FALSE
+"43",2022-03-26,"Northeast","regional","Northeast","hosp_case",4.79041344751122,"New admission:New case ratio",FALSE
+"44",2022-04-02,"Northeast","regional","Northeast","hosp_case",4.09465180090249,"New admission:New case ratio",FALSE
+"45",2022-04-09,"Northeast","regional","Northeast","hosp_case",3.74686200307243,"New admission:New case ratio",FALSE
+"46",2022-04-16,"Northeast","regional","Northeast","hosp_case",3.38416864076504,"New admission:New case ratio",FALSE
+"47",2022-04-23,"Northeast","regional","Northeast","hosp_case",3.77148823612993,"New admission:New case ratio",FALSE
+"48",2022-04-30,"Northeast","regional","Northeast","hosp_case",3.90460550629718,"New admission:New case ratio",FALSE
+"49",2022-05-07,"Northeast","regional","Northeast","hosp_case",4.19150910232168,"New admission:New case ratio",FALSE
+"50",2022-05-14,"Northeast","regional","Northeast","hosp_case",3.54703961813448,"New admission:New case ratio",FALSE
+"51",2022-05-21,"Northeast","regional","Northeast","hosp_case",3.51612387103203,"New admission:New case ratio",FALSE
+"52",2022-05-28,"Northeast","regional","Northeast","hosp_case",4.07596671252302,"New admission:New case ratio",FALSE
+"53",2022-06-04,"Northeast","regional","Northeast","hosp_case",4.89944556092416,"New admission:New case ratio",FALSE
+"54",2022-06-11,"Northeast","regional","Northeast","hosp_case",5.06607062478405,"New admission:New case ratio",FALSE
+"55",2022-06-18,"Northeast","regional","Northeast","hosp_case",5.03045229157658,"New admission:New case ratio",FALSE
+"56",2022-06-25,"Northeast","regional","Northeast","hosp_case",5.61367835817279,"New admission:New case ratio",FALSE
+"57",2022-07-02,"Northeast","regional","Northeast","hosp_case",5.27257190844234,"New admission:New case ratio",FALSE
+"58",2022-07-09,"Northeast","regional","Northeast","hosp_case",NA,"New admission:New case ratio",FALSE
+"59",2021-06-05,"Midwest","regional","Midwest","hosp_case",17.7078732557949,"New admission:New case ratio",FALSE
+"60",2021-06-12,"Midwest","regional","Midwest","hosp_case",17.415530576177,"New admission:New case ratio",FALSE
+"61",2021-06-19,"Midwest","regional","Midwest","hosp_case",17.598876285208,"New admission:New case ratio",FALSE
+"62",2021-06-26,"Midwest","regional","Midwest","hosp_case",15.3592128180486,"New admission:New case ratio",FALSE
+"63",2021-07-03,"Midwest","regional","Midwest","hosp_case",13.8999580289647,"New admission:New case ratio",FALSE
+"64",2021-07-10,"Midwest","regional","Midwest","hosp_case",12.0207079120479,"New admission:New case ratio",FALSE
+"65",2021-07-17,"Midwest","regional","Midwest","hosp_case",10.3251640337095,"New admission:New case ratio",FALSE
+"66",2021-07-24,"Midwest","regional","Midwest","hosp_case",9.45261943916451,"New admission:New case ratio",FALSE
+"67",2021-07-31,"Midwest","regional","Midwest","hosp_case",8.59108806800524,"New admission:New case ratio",FALSE
+"68",2021-08-07,"Midwest","regional","Midwest","hosp_case",8.26704368765773,"New admission:New case ratio",FALSE
+"69",2021-08-14,"Midwest","regional","Midwest","hosp_case",8.24887721261021,"New admission:New case ratio",FALSE
+"70",2021-08-21,"Midwest","regional","Midwest","hosp_case",8.51746068203061,"New admission:New case ratio",FALSE
+"71",2021-08-28,"Midwest","regional","Midwest","hosp_case",7.66272550423333,"New admission:New case ratio",FALSE
+"72",2021-09-04,"Midwest","regional","Midwest","hosp_case",6.91044975000525,"New admission:New case ratio",FALSE
+"73",2021-09-11,"Midwest","regional","Midwest","hosp_case",7.40387624905047,"New admission:New case ratio",FALSE
+"74",2021-09-18,"Midwest","regional","Midwest","hosp_case",6.79513185076824,"New admission:New case ratio",FALSE
+"75",2021-09-25,"Midwest","regional","Midwest","hosp_case",7.21309802030532,"New admission:New case ratio",FALSE
+"76",2021-10-02,"Midwest","regional","Midwest","hosp_case",6.98001494961002,"New admission:New case ratio",FALSE
+"77",2021-10-09,"Midwest","regional","Midwest","hosp_case",6.85686970184371,"New admission:New case ratio",FALSE
+"78",2021-10-16,"Midwest","regional","Midwest","hosp_case",7.30211099084478,"New admission:New case ratio",FALSE
+"79",2021-10-23,"Midwest","regional","Midwest","hosp_case",7.5840424162073,"New admission:New case ratio",FALSE
+"80",2021-10-30,"Midwest","regional","Midwest","hosp_case",7.16212734387577,"New admission:New case ratio",FALSE
+"81",2021-11-06,"Midwest","regional","Midwest","hosp_case",6.51695189197,"New admission:New case ratio",FALSE
+"82",2021-11-13,"Midwest","regional","Midwest","hosp_case",6.40204568459788,"New admission:New case ratio",FALSE
+"83",2021-11-20,"Midwest","regional","Midwest","hosp_case",5.99205353867733,"New admission:New case ratio",FALSE
+"84",2021-11-27,"Midwest","regional","Midwest","hosp_case",6.92477870367547,"New admission:New case ratio",FALSE
+"85",2021-12-04,"Midwest","regional","Midwest","hosp_case",6.61331199602831,"New admission:New case ratio",FALSE
+"86",2021-12-11,"Midwest","regional","Midwest","hosp_case",6.95730025693927,"New admission:New case ratio",FALSE
+"87",2021-12-18,"Midwest","regional","Midwest","hosp_case",6.61042580315636,"New admission:New case ratio",FALSE
+"88",2021-12-25,"Midwest","regional","Midwest","hosp_case",5.80704293105838,"New admission:New case ratio",FALSE
+"89",2022-01-01,"Midwest","regional","Midwest","hosp_case",5.18707327985905,"New admission:New case ratio",FALSE
+"90",2022-01-08,"Midwest","regional","Midwest","hosp_case",3.73558387767556,"New admission:New case ratio",FALSE
+"91",2022-01-15,"Midwest","regional","Midwest","hosp_case",3.00953441195327,"New admission:New case ratio",FALSE
+"92",2022-01-22,"Midwest","regional","Midwest","hosp_case",2.70386241440382,"New admission:New case ratio",FALSE
+"93",2022-01-29,"Midwest","regional","Midwest","hosp_case",3.27139250451799,"New admission:New case ratio",FALSE
+"94",2022-02-05,"Midwest","regional","Midwest","hosp_case",4.76571322288796,"New admission:New case ratio",FALSE
+"95",2022-02-12,"Midwest","regional","Midwest","hosp_case",7.10611492650902,"New admission:New case ratio",FALSE
+"96",2022-02-19,"Midwest","regional","Midwest","hosp_case",7.16175653848586,"New admission:New case ratio",FALSE
+"97",2022-02-26,"Midwest","regional","Midwest","hosp_case",9.13246756154719,"New admission:New case ratio",FALSE
+"98",2022-03-05,"Midwest","regional","Midwest","hosp_case",10.287357275624,"New admission:New case ratio",FALSE
+"99",2022-03-12,"Midwest","regional","Midwest","hosp_case",10.1473488168273,"New admission:New case ratio",FALSE
+"100",2022-03-19,"Midwest","regional","Midwest","hosp_case",9.99173696034942,"New admission:New case ratio",FALSE
+"101",2022-03-26,"Midwest","regional","Midwest","hosp_case",8.78749636905532,"New admission:New case ratio",FALSE
+"102",2022-04-02,"Midwest","regional","Midwest","hosp_case",7.29939002845803,"New admission:New case ratio",FALSE
+"103",2022-04-09,"Midwest","regional","Midwest","hosp_case",6.76748534440764,"New admission:New case ratio",FALSE
+"104",2022-04-16,"Midwest","regional","Midwest","hosp_case",4.74899835801454,"New admission:New case ratio",FALSE
+"105",2022-04-23,"Midwest","regional","Midwest","hosp_case",4.22142006037004,"New admission:New case ratio",FALSE
+"106",2022-04-30,"Midwest","regional","Midwest","hosp_case",4.82527186171742,"New admission:New case ratio",FALSE
+"107",2022-05-07,"Midwest","regional","Midwest","hosp_case",3.80380070802697,"New admission:New case ratio",FALSE
+"108",2022-05-14,"Midwest","regional","Midwest","hosp_case",3.53238631039608,"New admission:New case ratio",FALSE
+"109",2022-05-21,"Midwest","regional","Midwest","hosp_case",3.72031680393463,"New admission:New case ratio",FALSE
+"110",2022-05-28,"Midwest","regional","Midwest","hosp_case",4.12210163140686,"New admission:New case ratio",FALSE
+"111",2022-06-04,"Midwest","regional","Midwest","hosp_case",4.81580285471626,"New admission:New case ratio",FALSE
+"112",2022-06-11,"Midwest","regional","Midwest","hosp_case",4.52623915094299,"New admission:New case ratio",FALSE
+"113",2022-06-18,"Midwest","regional","Midwest","hosp_case",5.17365739814126,"New admission:New case ratio",FALSE
+"114",2022-06-25,"Midwest","regional","Midwest","hosp_case",5.22063065496005,"New admission:New case ratio",FALSE
+"115",2022-07-02,"Midwest","regional","Midwest","hosp_case",5.46163829025525,"New admission:New case ratio",FALSE
+"116",2022-07-09,"Midwest","regional","Midwest","hosp_case",NA,"New admission:New case ratio",FALSE
+"117",2021-06-05,"South","regional","South","hosp_case",18.563769343732,"New admission:New case ratio",FALSE
+"118",2021-06-12,"South","regional","South","hosp_case",18.415907737594,"New admission:New case ratio",FALSE
+"119",2021-06-19,"South","regional","South","hosp_case",19.2837568578292,"New admission:New case ratio",FALSE
+"120",2021-06-26,"South","regional","South","hosp_case",18.3696258154913,"New admission:New case ratio",FALSE
+"121",2021-07-03,"South","regional","South","hosp_case",16.2170042964586,"New admission:New case ratio",FALSE
+"122",2021-07-10,"South","regional","South","hosp_case",14.2516602099667,"New admission:New case ratio",FALSE
+"123",2021-07-17,"South","regional","South","hosp_case",11.3030401819604,"New admission:New case ratio",FALSE
+"124",2021-07-24,"South","regional","South","hosp_case",10.3790270190957,"New admission:New case ratio",FALSE
+"125",2021-07-31,"South","regional","South","hosp_case",9.69195608250921,"New admission:New case ratio",FALSE
+"126",2021-08-07,"South","regional","South","hosp_case",9.91938675523297,"New admission:New case ratio",FALSE
+"127",2021-08-14,"South","regional","South","hosp_case",10.0325554082106,"New admission:New case ratio",FALSE
+"128",2021-08-21,"South","regional","South","hosp_case",9.02245667972137,"New admission:New case ratio",FALSE
+"129",2021-08-28,"South","regional","South","hosp_case",8.61972623865131,"New admission:New case ratio",FALSE
+"130",2021-09-04,"South","regional","South","hosp_case",8.24654798411184,"New admission:New case ratio",FALSE
+"131",2021-09-11,"South","regional","South","hosp_case",8.74590331991762,"New admission:New case ratio",FALSE
+"132",2021-09-18,"South","regional","South","hosp_case",7.74610256375891,"New admission:New case ratio",FALSE
+"133",2021-09-25,"South","regional","South","hosp_case",8.410359489901,"New admission:New case ratio",FALSE
+"134",2021-10-02,"South","regional","South","hosp_case",8.47031230444815,"New admission:New case ratio",FALSE
+"135",2021-10-09,"South","regional","South","hosp_case",9.01827474903257,"New admission:New case ratio",FALSE
+"136",2021-10-16,"South","regional","South","hosp_case",9.36917623715244,"New admission:New case ratio",FALSE
+"137",2021-10-23,"South","regional","South","hosp_case",9.65051321667571,"New admission:New case ratio",FALSE
+"138",2021-10-30,"South","regional","South","hosp_case",9.22659654661449,"New admission:New case ratio",FALSE
+"139",2021-11-06,"South","regional","South","hosp_case",9.29115520614428,"New admission:New case ratio",FALSE
+"140",2021-11-13,"South","regional","South","hosp_case",8.94899377178253,"New admission:New case ratio",FALSE
+"141",2021-11-20,"South","regional","South","hosp_case",8.56382050133273,"New admission:New case ratio",FALSE
+"142",2021-11-27,"South","regional","South","hosp_case",9.87629811604937,"New admission:New case ratio",FALSE
+"143",2021-12-04,"South","regional","South","hosp_case",8.32712832973727,"New admission:New case ratio",FALSE
+"144",2021-12-11,"South","regional","South","hosp_case",8.17128100498739,"New admission:New case ratio",FALSE
+"145",2021-12-18,"South","regional","South","hosp_case",7.28941431322216,"New admission:New case ratio",FALSE
+"146",2021-12-25,"South","regional","South","hosp_case",4.69990929546651,"New admission:New case ratio",FALSE
+"147",2022-01-01,"South","regional","South","hosp_case",4.01283542551794,"New admission:New case ratio",FALSE
+"148",2022-01-08,"South","regional","South","hosp_case",3.20250462748441,"New admission:New case ratio",FALSE
+"149",2022-01-15,"South","regional","South","hosp_case",3.15439337777649,"New admission:New case ratio",FALSE
+"150",2022-01-22,"South","regional","South","hosp_case",3.44702484177553,"New admission:New case ratio",FALSE
+"151",2022-01-29,"South","regional","South","hosp_case",4.04600960185175,"New admission:New case ratio",FALSE
+"152",2022-02-05,"South","regional","South","hosp_case",5.22000980763957,"New admission:New case ratio",FALSE
+"153",2022-02-12,"South","regional","South","hosp_case",6.29058598120025,"New admission:New case ratio",FALSE
+"154",2022-02-19,"South","regional","South","hosp_case",7.46148474901377,"New admission:New case ratio",FALSE
+"155",2022-02-26,"South","regional","South","hosp_case",8.51079761052176,"New admission:New case ratio",FALSE
+"156",2022-03-05,"South","regional","South","hosp_case",9.38461846406361,"New admission:New case ratio",FALSE
+"157",2022-03-12,"South","regional","South","hosp_case",8.39934985739918,"New admission:New case ratio",FALSE
+"158",2022-03-19,"South","regional","South","hosp_case",7.45224797377825,"New admission:New case ratio",FALSE
+"159",2022-03-26,"South","regional","South","hosp_case",5.6683927975984,"New admission:New case ratio",FALSE
+"160",2022-04-02,"South","regional","South","hosp_case",6.50101092005863,"New admission:New case ratio",FALSE
+"161",2022-04-09,"South","regional","South","hosp_case",5.8844144222069,"New admission:New case ratio",FALSE
+"162",2022-04-16,"South","regional","South","hosp_case",5.70995133503877,"New admission:New case ratio",FALSE
+"163",2022-04-23,"South","regional","South","hosp_case",4.83941998748227,"New admission:New case ratio",FALSE
+"164",2022-04-30,"South","regional","South","hosp_case",4.63596967928656,"New admission:New case ratio",FALSE
+"165",2022-05-07,"South","regional","South","hosp_case",4.3967929275117,"New admission:New case ratio",FALSE
+"166",2022-05-14,"South","regional","South","hosp_case",3.93355785449295,"New admission:New case ratio",FALSE
+"167",2022-05-21,"South","regional","South","hosp_case",3.7113900673857,"New admission:New case ratio",FALSE
+"168",2022-05-28,"South","regional","South","hosp_case",3.81612172124726,"New admission:New case ratio",FALSE
+"169",2022-06-04,"South","regional","South","hosp_case",4.310299853084,"New admission:New case ratio",FALSE
+"170",2022-06-11,"South","regional","South","hosp_case",4.3927075278614,"New admission:New case ratio",FALSE
+"171",2022-06-18,"South","regional","South","hosp_case",4.82140501195183,"New admission:New case ratio",FALSE
+"172",2022-06-25,"South","regional","South","hosp_case",4.95911494860981,"New admission:New case ratio",FALSE
+"173",2022-07-02,"South","regional","South","hosp_case",5.14760898663291,"New admission:New case ratio",FALSE
+"174",2022-07-09,"South","regional","South","hosp_case",NA,"New admission:New case ratio",FALSE
+"175",2021-06-05,"West","regional","West","hosp_case",12.724055696592,"New admission:New case ratio",FALSE
+"176",2021-06-12,"West","regional","West","hosp_case",11.2488028249352,"New admission:New case ratio",FALSE
+"177",2021-06-19,"West","regional","West","hosp_case",12.6449506607372,"New admission:New case ratio",FALSE
+"178",2021-06-26,"West","regional","West","hosp_case",11.9660412405381,"New admission:New case ratio",FALSE
+"179",2021-07-03,"West","regional","West","hosp_case",12.9278908053997,"New admission:New case ratio",FALSE
+"180",2021-07-10,"West","regional","West","hosp_case",12.5947696312457,"New admission:New case ratio",FALSE
+"181",2021-07-17,"West","regional","West","hosp_case",8.74255000182822,"New admission:New case ratio",FALSE
+"182",2021-07-24,"West","regional","West","hosp_case",7.26693370358902,"New admission:New case ratio",FALSE
+"183",2021-07-31,"West","regional","West","hosp_case",7.50642138271082,"New admission:New case ratio",FALSE
+"184",2021-08-07,"West","regional","West","hosp_case",6.78728299518929,"New admission:New case ratio",FALSE
+"185",2021-08-14,"West","regional","West","hosp_case",6.81445597735245,"New admission:New case ratio",FALSE
+"186",2021-08-21,"West","regional","West","hosp_case",7.09636005906618,"New admission:New case ratio",FALSE
+"187",2021-08-28,"West","regional","West","hosp_case",6.91419159620585,"New admission:New case ratio",FALSE
+"188",2021-09-04,"West","regional","West","hosp_case",6.4801781202404,"New admission:New case ratio",FALSE
+"189",2021-09-11,"West","regional","West","hosp_case",7.35955735955736,"New admission:New case ratio",FALSE
+"190",2021-09-18,"West","regional","West","hosp_case",6.42600878429162,"New admission:New case ratio",FALSE
+"191",2021-09-25,"West","regional","West","hosp_case",7.07902146659592,"New admission:New case ratio",FALSE
+"192",2021-10-02,"West","regional","West","hosp_case",6.1328750152148,"New admission:New case ratio",FALSE
+"193",2021-10-09,"West","regional","West","hosp_case",6.67009474424751,"New admission:New case ratio",FALSE
+"194",2021-10-16,"West","regional","West","hosp_case",6.89944283647896,"New admission:New case ratio",FALSE
+"195",2021-10-23,"West","regional","West","hosp_case",6.86282627790321,"New admission:New case ratio",FALSE
+"196",2021-10-30,"West","regional","West","hosp_case",6.54609110588077,"New admission:New case ratio",FALSE
+"197",2021-11-06,"West","regional","West","hosp_case",6.92895818314802,"New admission:New case ratio",FALSE
+"198",2021-11-13,"West","regional","West","hosp_case",6.42246236310626,"New admission:New case ratio",FALSE
+"199",2021-11-20,"West","regional","West","hosp_case",6.87185877659931,"New admission:New case ratio",FALSE
+"200",2021-11-27,"West","regional","West","hosp_case",8.01513984874025,"New admission:New case ratio",FALSE
+"201",2021-12-04,"West","regional","West","hosp_case",6.69191504230069,"New admission:New case ratio",FALSE
+"202",2021-12-11,"West","regional","West","hosp_case",6.99250358595254,"New admission:New case ratio",FALSE
+"203",2021-12-18,"West","regional","West","hosp_case",6.81047374169902,"New admission:New case ratio",FALSE
+"204",2021-12-25,"West","regional","West","hosp_case",4.69044226857523,"New admission:New case ratio",FALSE
+"205",2022-01-01,"West","regional","West","hosp_case",3.3520177192601,"New admission:New case ratio",FALSE
+"206",2022-01-08,"West","regional","West","hosp_case",2.65649015255019,"New admission:New case ratio",FALSE
+"207",2022-01-15,"West","regional","West","hosp_case",1.89148214537056,"New admission:New case ratio",FALSE
+"208",2022-01-22,"West","regional","West","hosp_case",2.03665190232213,"New admission:New case ratio",FALSE
+"209",2022-01-29,"West","regional","West","hosp_case",2.24103292386041,"New admission:New case ratio",FALSE
+"210",2022-02-05,"West","regional","West","hosp_case",3.20603988770398,"New admission:New case ratio",FALSE
+"211",2022-02-12,"West","regional","West","hosp_case",4.41156877325639,"New admission:New case ratio",FALSE
+"212",2022-02-19,"West","regional","West","hosp_case",5.78589201514997,"New admission:New case ratio",FALSE
+"213",2022-02-26,"West","regional","West","hosp_case",5.91813554751727,"New admission:New case ratio",FALSE
+"214",2022-03-05,"West","regional","West","hosp_case",5.99684259807848,"New admission:New case ratio",FALSE
+"215",2022-03-12,"West","regional","West","hosp_case",6.45870020821613,"New admission:New case ratio",FALSE
+"216",2022-03-19,"West","regional","West","hosp_case",5.70378965294464,"New admission:New case ratio",FALSE
+"217",2022-03-26,"West","regional","West","hosp_case",5.35487110782195,"New admission:New case ratio",FALSE
+"218",2022-04-02,"West","regional","West","hosp_case",5.08104881296781,"New admission:New case ratio",FALSE
+"219",2022-04-09,"West","regional","West","hosp_case",4.12653047660193,"New admission:New case ratio",FALSE
+"220",2022-04-16,"West","regional","West","hosp_case",3.62512540141146,"New admission:New case ratio",FALSE
+"221",2022-04-23,"West","regional","West","hosp_case",3.43614359285704,"New admission:New case ratio",FALSE
+"222",2022-04-30,"West","regional","West","hosp_case",3.00445275305453,"New admission:New case ratio",FALSE
+"223",2022-05-07,"West","regional","West","hosp_case",3.1797508465989,"New admission:New case ratio",FALSE
+"224",2022-05-14,"West","regional","West","hosp_case",2.96407091874326,"New admission:New case ratio",FALSE
+"225",2022-05-21,"West","regional","West","hosp_case",2.74459711385763,"New admission:New case ratio",FALSE
+"226",2022-05-28,"West","regional","West","hosp_case",2.85185300708703,"New admission:New case ratio",FALSE
+"227",2022-06-04,"West","regional","West","hosp_case",3.21472204227747,"New admission:New case ratio",FALSE
+"228",2022-06-11,"West","regional","West","hosp_case",3.04504444309741,"New admission:New case ratio",FALSE
+"229",2022-06-18,"West","regional","West","hosp_case",3.55387246130713,"New admission:New case ratio",FALSE
+"230",2022-06-25,"West","regional","West","hosp_case",3.58073026629148,"New admission:New case ratio",FALSE
+"231",2022-07-02,"West","regional","West","hosp_case",3.89654683134685,"New admission:New case ratio",FALSE
+"232",2022-07-09,"West","regional","West","hosp_case",NA,"New admission:New case ratio",FALSE
+"233",2021-06-05,"National","national",NA,"hosp_case",16.6044978994971,"New admission:New case ratio",TRUE
+"234",2021-06-12,"National","national",NA,"hosp_case",15.9894321019192,"New admission:New case ratio",TRUE
+"235",2021-06-19,"National","national",NA,"hosp_case",16.7932186816337,"New admission:New case ratio",TRUE
+"236",2021-06-26,"National","national",NA,"hosp_case",15.8702067027605,"New admission:New case ratio",TRUE
+"237",2021-07-03,"National","national",NA,"hosp_case",14.9440601603982,"New admission:New case ratio",TRUE
+"238",2021-07-10,"National","national",NA,"hosp_case",13.4427714203836,"New admission:New case ratio",TRUE
+"239",2021-07-17,"National","national",NA,"hosp_case",10.3800335449173,"New admission:New case ratio",TRUE
+"240",2021-07-24,"National","national",NA,"hosp_case",9.30741969483169,"New admission:New case ratio",TRUE
+"241",2021-07-31,"National","national",NA,"hosp_case",8.8804602659568,"New admission:New case ratio",TRUE
+"242",2021-08-07,"National","national",NA,"hosp_case",8.76380480100908,"New admission:New case ratio",TRUE
+"243",2021-08-14,"National","national",NA,"hosp_case",8.86069366862977,"New admission:New case ratio",TRUE
+"244",2021-08-21,"National","national",NA,"hosp_case",8.39389340286768,"New admission:New case ratio",TRUE
+"245",2021-08-28,"National","national",NA,"hosp_case",7.98845184755413,"New admission:New case ratio",TRUE
+"246",2021-09-04,"National","national",NA,"hosp_case",7.52949342110215,"New admission:New case ratio",TRUE
+"247",2021-09-11,"National","national",NA,"hosp_case",8.01763017121808,"New admission:New case ratio",TRUE
+"248",2021-09-18,"National","national",NA,"hosp_case",7.09957143121532,"New admission:New case ratio",TRUE
+"249",2021-09-25,"National","national",NA,"hosp_case",7.56283708277023,"New admission:New case ratio",TRUE
+"250",2021-10-02,"National","national",NA,"hosp_case",7.28133581678981,"New admission:New case ratio",TRUE
+"251",2021-10-09,"National","national",NA,"hosp_case",7.40165187362721,"New admission:New case ratio",TRUE
+"252",2021-10-16,"National","national",NA,"hosp_case",7.72176326996161,"New admission:New case ratio",TRUE
+"253",2021-10-23,"National","national",NA,"hosp_case",7.84106406503128,"New admission:New case ratio",TRUE
+"254",2021-10-30,"National","national",NA,"hosp_case",7.38838273935042,"New admission:New case ratio",TRUE
+"255",2021-11-06,"National","national",NA,"hosp_case",7.14233507763472,"New admission:New case ratio",TRUE
+"256",2021-11-13,"National","national",NA,"hosp_case",6.70062545089267,"New admission:New case ratio",TRUE
+"257",2021-11-20,"National","national",NA,"hosp_case",6.49246842114309,"New admission:New case ratio",TRUE
+"258",2021-11-27,"National","national",NA,"hosp_case",7.39731000087234,"New admission:New case ratio",TRUE
+"259",2021-12-04,"National","national",NA,"hosp_case",6.64782096596628,"New admission:New case ratio",TRUE
+"260",2021-12-11,"National","national",NA,"hosp_case",6.68826899153199,"New admission:New case ratio",TRUE
+"261",2021-12-18,"National","national",NA,"hosp_case",6.19303594874758,"New admission:New case ratio",TRUE
+"262",2021-12-25,"National","national",NA,"hosp_case",4.47705645489337,"New admission:New case ratio",TRUE
+"263",2022-01-01,"National","national",NA,"hosp_case",3.7161835568306,"New admission:New case ratio",TRUE
+"264",2022-01-08,"National","national",NA,"hosp_case",3.04669833019514,"New admission:New case ratio",TRUE
+"265",2022-01-15,"National","national",NA,"hosp_case",2.74851267866861,"New admission:New case ratio",TRUE
+"266",2022-01-22,"National","national",NA,"hosp_case",2.91265964907795,"New admission:New case ratio",TRUE
+"267",2022-01-29,"National","national",NA,"hosp_case",3.37687099664274,"New admission:New case ratio",TRUE
+"268",2022-02-05,"National","national",NA,"hosp_case",4.58653612943548,"New admission:New case ratio",TRUE
+"269",2022-02-12,"National","national",NA,"hosp_case",5.87007109339685,"New admission:New case ratio",TRUE
+"270",2022-02-19,"National","national",NA,"hosp_case",6.80930337538316,"New admission:New case ratio",TRUE
+"271",2022-02-26,"National","national",NA,"hosp_case",7.65656706832613,"New admission:New case ratio",TRUE
+"272",2022-03-05,"National","national",NA,"hosp_case",8.17789378351993,"New admission:New case ratio",TRUE
+"273",2022-03-12,"National","national",NA,"hosp_case",7.90422612088633,"New admission:New case ratio",TRUE
+"274",2022-03-19,"National","national",NA,"hosp_case",7.06878050015501,"New admission:New case ratio",TRUE
+"275",2022-03-26,"National","national",NA,"hosp_case",5.84131369193812,"New admission:New case ratio",TRUE
+"276",2022-04-02,"National","national",NA,"hosp_case",5.62793676313773,"New admission:New case ratio",TRUE
+"277",2022-04-09,"National","national",NA,"hosp_case",4.90481909342092,"New admission:New case ratio",TRUE
+"278",2022-04-16,"National","national",NA,"hosp_case",4.26558476747845,"New admission:New case ratio",TRUE
+"279",2022-04-23,"National","national",NA,"hosp_case",4.06672216160063,"New admission:New case ratio",TRUE
+"280",2022-04-30,"National","national",NA,"hosp_case",4.07730315078463,"New admission:New case ratio",TRUE
+"281",2022-05-07,"National","national",NA,"hosp_case",3.93565294859223,"New admission:New case ratio",TRUE
+"282",2022-05-14,"National","national",NA,"hosp_case",3.52122097516779,"New admission:New case ratio",TRUE
+"283",2022-05-21,"National","national",NA,"hosp_case",3.42795801612283,"New admission:New case ratio",TRUE
+"284",2022-05-28,"National","national",NA,"hosp_case",3.67493959584769,"New admission:New case ratio",TRUE
+"285",2022-06-04,"National","national",NA,"hosp_case",4.19766986954001,"New admission:New case ratio",TRUE
+"286",2022-06-11,"National","national",NA,"hosp_case",4.08807469418827,"New admission:New case ratio",TRUE
+"287",2022-06-18,"National","national",NA,"hosp_case",4.53443912607577,"New admission:New case ratio",TRUE
+"288",2022-06-25,"National","national",NA,"hosp_case",4.64376218631244,"New admission:New case ratio",TRUE
+"289",2022-07-02,"National","national",NA,"hosp_case",4.83150413818739,"New admission:New case ratio",TRUE
+"290",2022-07-09,"National","national",NA,"hosp_case",NA,"New admission:New case ratio",TRUE
+"291",2021-06-05,"Northeast","regional","Northeast","cfr_in_21_days",1.77822384892734,"21d-lagged CFR (%)",FALSE
+"292",2021-06-12,"Northeast","regional","Northeast","cfr_in_21_days",1.65126608299466,"21d-lagged CFR (%)",FALSE
+"293",2021-06-19,"Northeast","regional","Northeast","cfr_in_21_days",1.64927968206657,"21d-lagged CFR (%)",FALSE
+"294",2021-06-26,"Northeast","regional","Northeast","cfr_in_21_days",2.42773547270864,"21d-lagged CFR (%)",FALSE
+"295",2021-07-03,"Northeast","regional","Northeast","cfr_in_21_days",2.54042340390065,"21d-lagged CFR (%)",FALSE
+"296",2021-07-10,"Northeast","regional","Northeast","cfr_in_21_days",1.95008074141684,"21d-lagged CFR (%)",FALSE
+"297",2021-07-17,"Northeast","regional","Northeast","cfr_in_21_days",1.40711520428316,"21d-lagged CFR (%)",FALSE
+"298",2021-07-24,"Northeast","regional","Northeast","cfr_in_21_days",1.30241585372082,"21d-lagged CFR (%)",FALSE
+"299",2021-07-31,"Northeast","regional","Northeast","cfr_in_21_days",1.13720232000093,"21d-lagged CFR (%)",FALSE
+"300",2021-08-07,"Northeast","regional","Northeast","cfr_in_21_days",0.922456333032218,"21d-lagged CFR (%)",FALSE
+"301",2021-08-14,"Northeast","regional","Northeast","cfr_in_21_days",0.873481218598134,"21d-lagged CFR (%)",FALSE
+"302",2021-08-21,"Northeast","regional","Northeast","cfr_in_21_days",0.858941652819061,"21d-lagged CFR (%)",FALSE
+"303",2021-08-28,"Northeast","regional","Northeast","cfr_in_21_days",0.931881283991055,"21d-lagged CFR (%)",FALSE
+"304",2021-09-04,"Northeast","regional","Northeast","cfr_in_21_days",0.972774480712166,"21d-lagged CFR (%)",FALSE
+"305",2021-09-11,"Northeast","regional","Northeast","cfr_in_21_days",1.02258652248718,"21d-lagged CFR (%)",FALSE
+"306",2021-09-18,"Northeast","regional","Northeast","cfr_in_21_days",0.945835223610124,"21d-lagged CFR (%)",FALSE
+"307",2021-09-25,"Northeast","regional","Northeast","cfr_in_21_days",0.992619134963651,"21d-lagged CFR (%)",FALSE
+"308",2021-10-02,"Northeast","regional","Northeast","cfr_in_21_days",1.00731482002578,"21d-lagged CFR (%)",FALSE
+"309",2021-10-09,"Northeast","regional","Northeast","cfr_in_21_days",0.952307739816437,"21d-lagged CFR (%)",FALSE
+"310",2021-10-16,"Northeast","regional","Northeast","cfr_in_21_days",1.08636178163619,"21d-lagged CFR (%)",FALSE
+"311",2021-10-23,"Northeast","regional","Northeast","cfr_in_21_days",1.07542141068437,"21d-lagged CFR (%)",FALSE
+"312",2021-10-30,"Northeast","regional","Northeast","cfr_in_21_days",1.34647442906948,"21d-lagged CFR (%)",FALSE
+"313",2021-11-06,"Northeast","regional","Northeast","cfr_in_21_days",1.00478271494448,"21d-lagged CFR (%)",FALSE
+"314",2021-11-13,"Northeast","regional","Northeast","cfr_in_21_days",1.23763485194287,"21d-lagged CFR (%)",FALSE
+"315",2021-11-20,"Northeast","regional","Northeast","cfr_in_21_days",1.09559501509626,"21d-lagged CFR (%)",FALSE
+"316",2021-11-27,"Northeast","regional","Northeast","cfr_in_21_days",1.25817322558372,"21d-lagged CFR (%)",FALSE
+"317",2021-12-04,"Northeast","regional","Northeast","cfr_in_21_days",1.01179143834624,"21d-lagged CFR (%)",FALSE
+"318",2021-12-11,"Northeast","regional","Northeast","cfr_in_21_days",0.814874047186264,"21d-lagged CFR (%)",FALSE
+"319",2021-12-18,"Northeast","regional","Northeast","cfr_in_21_days",1.07504469331965,"21d-lagged CFR (%)",FALSE
+"320",2021-12-25,"Northeast","regional","Northeast","cfr_in_21_days",0.832906168899205,"21d-lagged CFR (%)",FALSE
+"321",2022-01-01,"Northeast","regional","Northeast","cfr_in_21_days",0.471147630778702,"21d-lagged CFR (%)",FALSE
+"322",2022-01-08,"Northeast","regional","Northeast","cfr_in_21_days",0.362071870978766,"21d-lagged CFR (%)",FALSE
+"323",2022-01-15,"Northeast","regional","Northeast","cfr_in_21_days",0.314748797597224,"21d-lagged CFR (%)",FALSE
+"324",2022-01-22,"Northeast","regional","Northeast","cfr_in_21_days",0.411963673544634,"21d-lagged CFR (%)",FALSE
+"325",2022-01-29,"Northeast","regional","Northeast","cfr_in_21_days",0.537607471016384,"21d-lagged CFR (%)",FALSE
+"326",2022-02-05,"Northeast","regional","Northeast","cfr_in_21_days",0.807549391118796,"21d-lagged CFR (%)",FALSE
+"327",2022-02-12,"Northeast","regional","Northeast","cfr_in_21_days",0.837418121099327,"21d-lagged CFR (%)",FALSE
+"328",2022-02-19,"Northeast","regional","Northeast","cfr_in_21_days",0.938349110559658,"21d-lagged CFR (%)",FALSE
+"329",2022-02-26,"Northeast","regional","Northeast","cfr_in_21_days",0.994218748252765,"21d-lagged CFR (%)",FALSE
+"330",2022-03-05,"Northeast","regional","Northeast","cfr_in_21_days",0.983627824513012,"21d-lagged CFR (%)",FALSE
+"331",2022-03-12,"Northeast","regional","Northeast","cfr_in_21_days",0.890136311747913,"21d-lagged CFR (%)",FALSE
+"332",2022-03-19,"Northeast","regional","Northeast","cfr_in_21_days",0.787202678298767,"21d-lagged CFR (%)",FALSE
+"333",2022-03-26,"Northeast","regional","Northeast","cfr_in_21_days",0.767515843791488,"21d-lagged CFR (%)",FALSE
+"334",2022-04-02,"Northeast","regional","Northeast","cfr_in_21_days",0.6578315242177,"21d-lagged CFR (%)",FALSE
+"335",2022-04-09,"Northeast","regional","Northeast","cfr_in_21_days",0.508930913217323,"21d-lagged CFR (%)",FALSE
+"336",2022-04-16,"Northeast","regional","Northeast","cfr_in_21_days",0.475655039370202,"21d-lagged CFR (%)",FALSE
+"337",2022-04-23,"Northeast","regional","Northeast","cfr_in_21_days",0.433498819338235,"21d-lagged CFR (%)",FALSE
+"338",2022-04-30,"Northeast","regional","Northeast","cfr_in_21_days",0.393082226408258,"21d-lagged CFR (%)",FALSE
+"339",2022-05-07,"Northeast","regional","Northeast","cfr_in_21_days",0.475429961323575,"21d-lagged CFR (%)",FALSE
+"340",2022-05-14,"Northeast","regional","Northeast","cfr_in_21_days",0.277423155307149,"21d-lagged CFR (%)",FALSE
+"341",2022-05-21,"Northeast","regional","Northeast","cfr_in_21_days",0.274190092659167,"21d-lagged CFR (%)",FALSE
+"342",2022-05-28,"Northeast","regional","Northeast","cfr_in_21_days",0.333223782206265,"21d-lagged CFR (%)",FALSE
+"343",2022-06-04,"Northeast","regional","Northeast","cfr_in_21_days",0.314163786926433,"21d-lagged CFR (%)",FALSE
+"344",2022-06-11,"Northeast","regional","Northeast","cfr_in_21_days",0.357035142654463,"21d-lagged CFR (%)",FALSE
+"345",2022-06-18,"Northeast","regional","Northeast","cfr_in_21_days",0.370616997127071,"21d-lagged CFR (%)",FALSE
+"346",2022-06-25,"Northeast","regional","Northeast","cfr_in_21_days",NA,"21d-lagged CFR (%)",FALSE
+"347",2022-07-02,"Northeast","regional","Northeast","cfr_in_21_days",NA,"21d-lagged CFR (%)",FALSE
+"348",2022-07-09,"Northeast","regional","Northeast","cfr_in_21_days",NA,"21d-lagged CFR (%)",FALSE
+"349",2021-06-05,"Midwest","regional","Midwest","cfr_in_21_days",2.66482022214588,"21d-lagged CFR (%)",FALSE
+"350",2021-06-12,"Midwest","regional","Midwest","cfr_in_21_days",2.43243354068339,"21d-lagged CFR (%)",FALSE
+"351",2021-06-19,"Midwest","regional","Midwest","cfr_in_21_days",2.41525181501172,"21d-lagged CFR (%)",FALSE
+"352",2021-06-26,"Midwest","regional","Midwest","cfr_in_21_days",2.65016734613519,"21d-lagged CFR (%)",FALSE
+"353",2021-07-03,"Midwest","regional","Midwest","cfr_in_21_days",2.15148714224408,"21d-lagged CFR (%)",FALSE
+"354",2021-07-10,"Midwest","regional","Midwest","cfr_in_21_days",1.71712224252586,"21d-lagged CFR (%)",FALSE
+"355",2021-07-17,"Midwest","regional","Midwest","cfr_in_21_days",1.59985604047803,"21d-lagged CFR (%)",FALSE
+"356",2021-07-24,"Midwest","regional","Midwest","cfr_in_21_days",1.4395275825983,"21d-lagged CFR (%)",FALSE
+"357",2021-07-31,"Midwest","regional","Midwest","cfr_in_21_days",1.19594779894056,"21d-lagged CFR (%)",FALSE
+"358",2021-08-07,"Midwest","regional","Midwest","cfr_in_21_days",1.1599155031487,"21d-lagged CFR (%)",FALSE
+"359",2021-08-14,"Midwest","regional","Midwest","cfr_in_21_days",1.0111846840619,"21d-lagged CFR (%)",FALSE
+"360",2021-08-21,"Midwest","regional","Midwest","cfr_in_21_days",1.00891082203684,"21d-lagged CFR (%)",FALSE
+"361",2021-08-28,"Midwest","regional","Midwest","cfr_in_21_days",1.04084788894166,"21d-lagged CFR (%)",FALSE
+"362",2021-09-04,"Midwest","regional","Midwest","cfr_in_21_days",0.970675532861615,"21d-lagged CFR (%)",FALSE
+"363",2021-09-11,"Midwest","regional","Midwest","cfr_in_21_days",1.0334494184678,"21d-lagged CFR (%)",FALSE
+"364",2021-09-18,"Midwest","regional","Midwest","cfr_in_21_days",0.96090712897203,"21d-lagged CFR (%)",FALSE
+"365",2021-09-25,"Midwest","regional","Midwest","cfr_in_21_days",1.03025424476312,"21d-lagged CFR (%)",FALSE
+"366",2021-10-02,"Midwest","regional","Midwest","cfr_in_21_days",1.17258073172775,"21d-lagged CFR (%)",FALSE
+"367",2021-10-09,"Midwest","regional","Midwest","cfr_in_21_days",1.20089256852462,"21d-lagged CFR (%)",FALSE
+"368",2021-10-16,"Midwest","regional","Midwest","cfr_in_21_days",1.2516511429518,"21d-lagged CFR (%)",FALSE
+"369",2021-10-23,"Midwest","regional","Midwest","cfr_in_21_days",1.44191624533299,"21d-lagged CFR (%)",FALSE
+"370",2021-10-30,"Midwest","regional","Midwest","cfr_in_21_days",1.43939554148402,"21d-lagged CFR (%)",FALSE
+"371",2021-11-06,"Midwest","regional","Midwest","cfr_in_21_days",1.27099550680979,"21d-lagged CFR (%)",FALSE
+"372",2021-11-13,"Midwest","regional","Midwest","cfr_in_21_days",1.20156951182494,"21d-lagged CFR (%)",FALSE
+"373",2021-11-20,"Midwest","regional","Midwest","cfr_in_21_days",1.2230997081437,"21d-lagged CFR (%)",FALSE
+"374",2021-11-27,"Midwest","regional","Midwest","cfr_in_21_days",1.36288234420407,"21d-lagged CFR (%)",FALSE
+"375",2021-12-04,"Midwest","regional","Midwest","cfr_in_21_days",1.20767591202119,"21d-lagged CFR (%)",FALSE
+"376",2021-12-11,"Midwest","regional","Midwest","cfr_in_21_days",0.958020811854528,"21d-lagged CFR (%)",FALSE
+"377",2021-12-18,"Midwest","regional","Midwest","cfr_in_21_days",1.16343955113641,"21d-lagged CFR (%)",FALSE
+"378",2021-12-25,"Midwest","regional","Midwest","cfr_in_21_days",1.24961158039677,"21d-lagged CFR (%)",FALSE
+"379",2022-01-01,"Midwest","regional","Midwest","cfr_in_21_days",0.968159817581007,"21d-lagged CFR (%)",FALSE
+"380",2022-01-08,"Midwest","regional","Midwest","cfr_in_21_days",0.579832190968063,"21d-lagged CFR (%)",FALSE
+"381",2022-01-15,"Midwest","regional","Midwest","cfr_in_21_days",0.429022670872147,"21d-lagged CFR (%)",FALSE
+"382",2022-01-22,"Midwest","regional","Midwest","cfr_in_21_days",0.374512837363134,"21d-lagged CFR (%)",FALSE
+"383",2022-01-29,"Midwest","regional","Midwest","cfr_in_21_days",0.434553341669213,"21d-lagged CFR (%)",FALSE
+"384",2022-02-05,"Midwest","regional","Midwest","cfr_in_21_days",0.881633032642053,"21d-lagged CFR (%)",FALSE
+"385",2022-02-12,"Midwest","regional","Midwest","cfr_in_21_days",1.09021556743474,"21d-lagged CFR (%)",FALSE
+"386",2022-02-19,"Midwest","regional","Midwest","cfr_in_21_days",1.38499289434275,"21d-lagged CFR (%)",FALSE
+"387",2022-02-26,"Midwest","regional","Midwest","cfr_in_21_days",2.28326350034473,"21d-lagged CFR (%)",FALSE
+"388",2022-03-05,"Midwest","regional","Midwest","cfr_in_21_days",2.52003949814126,"21d-lagged CFR (%)",FALSE
+"389",2022-03-12,"Midwest","regional","Midwest","cfr_in_21_days",3.15625,"21d-lagged CFR (%)",FALSE
+"390",2022-03-19,"Midwest","regional","Midwest","cfr_in_21_days",1.98239532036966,"21d-lagged CFR (%)",FALSE
+"391",2022-03-26,"Midwest","regional","Midwest","cfr_in_21_days",1.62007259448389,"21d-lagged CFR (%)",FALSE
+"392",2022-04-02,"Midwest","regional","Midwest","cfr_in_21_days",1.52568207527273,"21d-lagged CFR (%)",FALSE
+"393",2022-04-09,"Midwest","regional","Midwest","cfr_in_21_days",1.08947438873045,"21d-lagged CFR (%)",FALSE
+"394",2022-04-16,"Midwest","regional","Midwest","cfr_in_21_days",0.950394673717368,"21d-lagged CFR (%)",FALSE
+"395",2022-04-23,"Midwest","regional","Midwest","cfr_in_21_days",0.697533222364723,"21d-lagged CFR (%)",FALSE
+"396",2022-04-30,"Midwest","regional","Midwest","cfr_in_21_days",0.582268505916906,"21d-lagged CFR (%)",FALSE
+"397",2022-05-07,"Midwest","regional","Midwest","cfr_in_21_days",0.601615108357596,"21d-lagged CFR (%)",FALSE
+"398",2022-05-14,"Midwest","regional","Midwest","cfr_in_21_days",0.242387447011454,"21d-lagged CFR (%)",FALSE
+"399",2022-05-21,"Midwest","regional","Midwest","cfr_in_21_days",0.337500601048228,"21d-lagged CFR (%)",FALSE
+"400",2022-05-28,"Midwest","regional","Midwest","cfr_in_21_days",0.286666500630514,"21d-lagged CFR (%)",FALSE
+"401",2022-06-04,"Midwest","regional","Midwest","cfr_in_21_days",0.455827198656581,"21d-lagged CFR (%)",FALSE
+"402",2022-06-11,"Midwest","regional","Midwest","cfr_in_21_days",0.431930522816246,"21d-lagged CFR (%)",FALSE
+"403",2022-06-18,"Midwest","regional","Midwest","cfr_in_21_days",0.318098108153357,"21d-lagged CFR (%)",FALSE
+"404",2022-06-25,"Midwest","regional","Midwest","cfr_in_21_days",NA,"21d-lagged CFR (%)",FALSE
+"405",2022-07-02,"Midwest","regional","Midwest","cfr_in_21_days",NA,"21d-lagged CFR (%)",FALSE
+"406",2022-07-09,"Midwest","regional","Midwest","cfr_in_21_days",NA,"21d-lagged CFR (%)",FALSE
+"407",2021-06-05,"South","regional","South","cfr_in_21_days",2.05977065332854,"21d-lagged CFR (%)",FALSE
+"408",2021-06-12,"South","regional","South","cfr_in_21_days",1.89865450657854,"21d-lagged CFR (%)",FALSE
+"409",2021-06-19,"South","regional","South","cfr_in_21_days",1.87458597020395,"21d-lagged CFR (%)",FALSE
+"410",2021-06-26,"South","regional","South","cfr_in_21_days",2.22677579901842,"21d-lagged CFR (%)",FALSE
+"411",2021-07-03,"South","regional","South","cfr_in_21_days",2.09170709516384,"21d-lagged CFR (%)",FALSE
+"412",2021-07-10,"South","regional","South","cfr_in_21_days",1.89845570373308,"21d-lagged CFR (%)",FALSE
+"413",2021-07-17,"South","regional","South","cfr_in_21_days",1.69800384372852,"21d-lagged CFR (%)",FALSE
+"414",2021-07-24,"South","regional","South","cfr_in_21_days",1.5559468555951,"21d-lagged CFR (%)",FALSE
+"415",2021-07-31,"South","regional","South","cfr_in_21_days",1.4067762053609,"21d-lagged CFR (%)",FALSE
+"416",2021-08-07,"South","regional","South","cfr_in_21_days",1.3449453592731,"21d-lagged CFR (%)",FALSE
+"417",2021-08-14,"South","regional","South","cfr_in_21_days",1.39394055940173,"21d-lagged CFR (%)",FALSE
+"418",2021-08-21,"South","regional","South","cfr_in_21_days",1.27525789401202,"21d-lagged CFR (%)",FALSE
+"419",2021-08-28,"South","regional","South","cfr_in_21_days",1.44954647176857,"21d-lagged CFR (%)",FALSE
+"420",2021-09-04,"South","regional","South","cfr_in_21_days",1.50470740315377,"21d-lagged CFR (%)",FALSE
+"421",2021-09-11,"South","regional","South","cfr_in_21_days",1.44708095965897,"21d-lagged CFR (%)",FALSE
+"422",2021-09-18,"South","regional","South","cfr_in_21_days",1.37570117138872,"21d-lagged CFR (%)",FALSE
+"423",2021-09-25,"South","regional","South","cfr_in_21_days",1.5022197148776,"21d-lagged CFR (%)",FALSE
+"424",2021-10-02,"South","regional","South","cfr_in_21_days",1.72229683523779,"21d-lagged CFR (%)",FALSE
+"425",2021-10-09,"South","regional","South","cfr_in_21_days",1.83425416966939,"21d-lagged CFR (%)",FALSE
+"426",2021-10-16,"South","regional","South","cfr_in_21_days",1.89728204300417,"21d-lagged CFR (%)",FALSE
+"427",2021-10-23,"South","regional","South","cfr_in_21_days",2.04643302734455,"21d-lagged CFR (%)",FALSE
+"428",2021-10-30,"South","regional","South","cfr_in_21_days",2.129267427749,"21d-lagged CFR (%)",FALSE
+"429",2021-11-06,"South","regional","South","cfr_in_21_days",2.099714295131,"21d-lagged CFR (%)",FALSE
+"430",2021-11-13,"South","regional","South","cfr_in_21_days",2.3284976379961,"21d-lagged CFR (%)",FALSE
+"431",2021-11-20,"South","regional","South","cfr_in_21_days",2.2203096218997,"21d-lagged CFR (%)",FALSE
+"432",2021-11-27,"South","regional","South","cfr_in_21_days",2.04362331061921,"21d-lagged CFR (%)",FALSE
+"433",2021-12-04,"South","regional","South","cfr_in_21_days",1.56649670763454,"21d-lagged CFR (%)",FALSE
+"434",2021-12-11,"South","regional","South","cfr_in_21_days",1.4484287591638,"21d-lagged CFR (%)",FALSE
+"435",2021-12-18,"South","regional","South","cfr_in_21_days",1.31026202833198,"21d-lagged CFR (%)",FALSE
+"436",2021-12-25,"South","regional","South","cfr_in_21_days",0.902190515328236,"21d-lagged CFR (%)",FALSE
+"437",2022-01-01,"South","regional","South","cfr_in_21_days",0.45865692938776,"21d-lagged CFR (%)",FALSE
+"438",2022-01-08,"South","regional","South","cfr_in_21_days",0.333739242094263,"21d-lagged CFR (%)",FALSE
+"439",2022-01-15,"South","regional","South","cfr_in_21_days",0.351606734611029,"21d-lagged CFR (%)",FALSE
+"440",2022-01-22,"South","regional","South","cfr_in_21_days",0.399087481293252,"21d-lagged CFR (%)",FALSE
+"441",2022-01-29,"South","regional","South","cfr_in_21_days",0.523740811575282,"21d-lagged CFR (%)",FALSE
+"442",2022-02-05,"South","regional","South","cfr_in_21_days",0.647049907083532,"21d-lagged CFR (%)",FALSE
+"443",2022-02-12,"South","regional","South","cfr_in_21_days",0.962027595252485,"21d-lagged CFR (%)",FALSE
+"444",2022-02-19,"South","regional","South","cfr_in_21_days",1.44084076152845,"21d-lagged CFR (%)",FALSE
+"445",2022-02-26,"South","regional","South","cfr_in_21_days",2.00467959391306,"21d-lagged CFR (%)",FALSE
+"446",2022-03-05,"South","regional","South","cfr_in_21_days",2.1001665810409,"21d-lagged CFR (%)",FALSE
+"447",2022-03-12,"South","regional","South","cfr_in_21_days",1.98945303322564,"21d-lagged CFR (%)",FALSE
+"448",2022-03-19,"South","regional","South","cfr_in_21_days",2.42229828779837,"21d-lagged CFR (%)",FALSE
+"449",2022-03-26,"South","regional","South","cfr_in_21_days",1.73736957370479,"21d-lagged CFR (%)",FALSE
+"450",2022-04-02,"South","regional","South","cfr_in_21_days",1.75737886441614,"21d-lagged CFR (%)",FALSE
+"451",2022-04-09,"South","regional","South","cfr_in_21_days",1.37140925440765,"21d-lagged CFR (%)",FALSE
+"452",2022-04-16,"South","regional","South","cfr_in_21_days",1.46916095411304,"21d-lagged CFR (%)",FALSE
+"453",2022-04-23,"South","regional","South","cfr_in_21_days",0.917180530822625,"21d-lagged CFR (%)",FALSE
+"454",2022-04-30,"South","regional","South","cfr_in_21_days",0.750291219841362,"21d-lagged CFR (%)",FALSE
+"455",2022-05-07,"South","regional","South","cfr_in_21_days",0.556594013778185,"21d-lagged CFR (%)",FALSE
+"456",2022-05-14,"South","regional","South","cfr_in_21_days",0.354933631900221,"21d-lagged CFR (%)",FALSE
+"457",2022-05-21,"South","regional","South","cfr_in_21_days",0.305107252125699,"21d-lagged CFR (%)",FALSE
+"458",2022-05-28,"South","regional","South","cfr_in_21_days",0.294861220203003,"21d-lagged CFR (%)",FALSE
+"459",2022-06-04,"South","regional","South","cfr_in_21_days",0.391859204509489,"21d-lagged CFR (%)",FALSE
+"460",2022-06-11,"South","regional","South","cfr_in_21_days",0.41075622573738,"21d-lagged CFR (%)",FALSE
+"461",2022-06-18,"South","regional","South","cfr_in_21_days",0.336403254209995,"21d-lagged CFR (%)",FALSE
+"462",2022-06-25,"South","regional","South","cfr_in_21_days",NA,"21d-lagged CFR (%)",FALSE
+"463",2022-07-02,"South","regional","South","cfr_in_21_days",NA,"21d-lagged CFR (%)",FALSE
+"464",2022-07-09,"South","regional","South","cfr_in_21_days",NA,"21d-lagged CFR (%)",FALSE
+"465",2021-06-05,"West","regional","West","cfr_in_21_days",2.20597738287561,"21d-lagged CFR (%)",FALSE
+"466",2021-06-12,"West","regional","West","cfr_in_21_days",1.93962258144107,"21d-lagged CFR (%)",FALSE
+"467",2021-06-19,"West","regional","West","cfr_in_21_days",1.95953958006444,"21d-lagged CFR (%)",FALSE
+"468",2021-06-26,"West","regional","West","cfr_in_21_days",2.08491405426945,"21d-lagged CFR (%)",FALSE
+"469",2021-07-03,"West","regional","West","cfr_in_21_days",1.48157314790192,"21d-lagged CFR (%)",FALSE
+"470",2021-07-10,"West","regional","West","cfr_in_21_days",1.82146680316565,"21d-lagged CFR (%)",FALSE
+"471",2021-07-17,"West","regional","West","cfr_in_21_days",1.41847965190683,"21d-lagged CFR (%)",FALSE
+"472",2021-07-24,"West","regional","West","cfr_in_21_days",0.940539334671848,"21d-lagged CFR (%)",FALSE
+"473",2021-07-31,"West","regional","West","cfr_in_21_days",0.998002236489967,"21d-lagged CFR (%)",FALSE
+"474",2021-08-07,"West","regional","West","cfr_in_21_days",0.967377379209371,"21d-lagged CFR (%)",FALSE
+"475",2021-08-14,"West","regional","West","cfr_in_21_days",0.977312297492685,"21d-lagged CFR (%)",FALSE
+"476",2021-08-21,"West","regional","West","cfr_in_21_days",0.91422521303859,"21d-lagged CFR (%)",FALSE
+"477",2021-08-28,"West","regional","West","cfr_in_21_days",1.0949034829821,"21d-lagged CFR (%)",FALSE
+"478",2021-09-04,"West","regional","West","cfr_in_21_days",0.995165037424455,"21d-lagged CFR (%)",FALSE
+"479",2021-09-11,"West","regional","West","cfr_in_21_days",1.21868021868022,"21d-lagged CFR (%)",FALSE
+"480",2021-09-18,"West","regional","West","cfr_in_21_days",1.09631159573469,"21d-lagged CFR (%)",FALSE
+"481",2021-09-25,"West","regional","West","cfr_in_21_days",1.20646316057159,"21d-lagged CFR (%)",FALSE
+"482",2021-10-02,"West","regional","West","cfr_in_21_days",1.35658683094828,"21d-lagged CFR (%)",FALSE
+"483",2021-10-09,"West","regional","West","cfr_in_21_days",1.3869605572005,"21d-lagged CFR (%)",FALSE
+"484",2021-10-16,"West","regional","West","cfr_in_21_days",1.40514526004468,"21d-lagged CFR (%)",FALSE
+"485",2021-10-23,"West","regional","West","cfr_in_21_days",1.40150296258023,"21d-lagged CFR (%)",FALSE
+"486",2021-10-30,"West","regional","West","cfr_in_21_days",1.38784174539041,"21d-lagged CFR (%)",FALSE
+"487",2021-11-06,"West","regional","West","cfr_in_21_days",1.23903888418235,"21d-lagged CFR (%)",FALSE
+"488",2021-11-13,"West","regional","West","cfr_in_21_days",1.33443529524697,"21d-lagged CFR (%)",FALSE
+"489",2021-11-20,"West","regional","West","cfr_in_21_days",1.43946935728012,"21d-lagged CFR (%)",FALSE
+"490",2021-11-27,"West","regional","West","cfr_in_21_days",1.69030533836061,"21d-lagged CFR (%)",FALSE
+"491",2021-12-04,"West","regional","West","cfr_in_21_days",1.32392530078663,"21d-lagged CFR (%)",FALSE
+"492",2021-12-11,"West","regional","West","cfr_in_21_days",1.11711608817428,"21d-lagged CFR (%)",FALSE
+"493",2021-12-18,"West","regional","West","cfr_in_21_days",1.28761543371992,"21d-lagged CFR (%)",FALSE
+"494",2021-12-25,"West","regional","West","cfr_in_21_days",1.15753357455456,"21d-lagged CFR (%)",FALSE
+"495",2022-01-01,"West","regional","West","cfr_in_21_days",0.510956948012786,"21d-lagged CFR (%)",FALSE
+"496",2022-01-08,"West","regional","West","cfr_in_21_days",0.394684327339428,"21d-lagged CFR (%)",FALSE
+"497",2022-01-15,"West","regional","West","cfr_in_21_days",0.220202460637498,"21d-lagged CFR (%)",FALSE
+"498",2022-01-22,"West","regional","West","cfr_in_21_days",0.235093766599833,"21d-lagged CFR (%)",FALSE
+"499",2022-01-29,"West","regional","West","cfr_in_21_days",0.247339151109783,"21d-lagged CFR (%)",FALSE
+"500",2022-02-05,"West","regional","West","cfr_in_21_days",0.372024626634306,"21d-lagged CFR (%)",FALSE
+"501",2022-02-12,"West","regional","West","cfr_in_21_days",0.607540701164455,"21d-lagged CFR (%)",FALSE
+"502",2022-02-19,"West","regional","West","cfr_in_21_days",0.951043655909938,"21d-lagged CFR (%)",FALSE
+"503",2022-02-26,"West","regional","West","cfr_in_21_days",1.28708782863268,"21d-lagged CFR (%)",FALSE
+"504",2022-03-05,"West","regional","West","cfr_in_21_days",1.41931119697017,"21d-lagged CFR (%)",FALSE
+"505",2022-03-12,"West","regional","West","cfr_in_21_days",1.7268121597763,"21d-lagged CFR (%)",FALSE
+"506",2022-03-19,"West","regional","West","cfr_in_21_days",1.92311584049864,"21d-lagged CFR (%)",FALSE
+"507",2022-03-26,"West","regional","West","cfr_in_21_days",1.63011934381211,"21d-lagged CFR (%)",FALSE
+"508",2022-04-02,"West","regional","West","cfr_in_21_days",1.57666345226615,"21d-lagged CFR (%)",FALSE
+"509",2022-04-09,"West","regional","West","cfr_in_21_days",1.39137948223721,"21d-lagged CFR (%)",FALSE
+"510",2022-04-16,"West","regional","West","cfr_in_21_days",1.33074200640808,"21d-lagged CFR (%)",FALSE
+"511",2022-04-23,"West","regional","West","cfr_in_21_days",0.835741795943664,"21d-lagged CFR (%)",FALSE
+"512",2022-04-30,"West","regional","West","cfr_in_21_days",0.632475823143017,"21d-lagged CFR (%)",FALSE
+"513",2022-05-07,"West","regional","West","cfr_in_21_days",0.588449223011865,"21d-lagged CFR (%)",FALSE
+"514",2022-05-14,"West","regional","West","cfr_in_21_days",0.358915522942985,"21d-lagged CFR (%)",FALSE
+"515",2022-05-21,"West","regional","West","cfr_in_21_days",0.353189946834219,"21d-lagged CFR (%)",FALSE
+"516",2022-05-28,"West","regional","West","cfr_in_21_days",0.250966107682176,"21d-lagged CFR (%)",FALSE
+"517",2022-06-04,"West","regional","West","cfr_in_21_days",0.272662369554981,"21d-lagged CFR (%)",FALSE
+"518",2022-06-11,"West","regional","West","cfr_in_21_days",0.265168135704367,"21d-lagged CFR (%)",FALSE
+"519",2022-06-18,"West","regional","West","cfr_in_21_days",0.292894437192768,"21d-lagged CFR (%)",FALSE
+"520",2022-06-25,"West","regional","West","cfr_in_21_days",NA,"21d-lagged CFR (%)",FALSE
+"521",2022-07-02,"West","regional","West","cfr_in_21_days",NA,"21d-lagged CFR (%)",FALSE
+"522",2022-07-09,"West","regional","West","cfr_in_21_days",NA,"21d-lagged CFR (%)",FALSE
+"523",2021-06-05,"National","national",NA,"cfr_in_21_days",2.17972443556778,"21d-lagged CFR (%)",TRUE
+"524",2021-06-12,"National","national",NA,"cfr_in_21_days",1.9803450639888,"21d-lagged CFR (%)",TRUE
+"525",2021-06-19,"National","national",NA,"cfr_in_21_days",1.97614725120089,"21d-lagged CFR (%)",TRUE
+"526",2021-06-26,"National","national",NA,"cfr_in_21_days",2.27264682830632,"21d-lagged CFR (%)",TRUE
+"527",2021-07-03,"National","national",NA,"cfr_in_21_days",1.96358120120024,"21d-lagged CFR (%)",TRUE
+"528",2021-07-10,"National","national",NA,"cfr_in_21_days",1.85207263690517,"21d-lagged CFR (%)",TRUE
+"529",2021-07-17,"National","national",NA,"cfr_in_21_days",1.59701173945985,"21d-lagged CFR (%)",TRUE
+"530",2021-07-24,"National","national",NA,"cfr_in_21_days",1.37918757213698,"21d-lagged CFR (%)",TRUE
+"531",2021-07-31,"National","national",NA,"cfr_in_21_days",1.27856789877767,"21d-lagged CFR (%)",TRUE
+"532",2021-08-07,"National","national",NA,"cfr_in_21_days",1.2113595506992,"21d-lagged CFR (%)",TRUE
+"533",2021-08-14,"National","national",NA,"cfr_in_21_days",1.21626378728802,"21d-lagged CFR (%)",TRUE
+"534",2021-08-21,"National","national",NA,"cfr_in_21_days",1.13721624458189,"21d-lagged CFR (%)",TRUE
+"535",2021-08-28,"National","national",NA,"cfr_in_21_days",1.2781889899592,"21d-lagged CFR (%)",TRUE
+"536",2021-09-04,"National","national",NA,"cfr_in_21_days",1.2723080511578,"21d-lagged CFR (%)",TRUE
+"537",2021-09-11,"National","national",NA,"cfr_in_21_days",1.28855208141491,"21d-lagged CFR (%)",TRUE
+"538",2021-09-18,"National","national",NA,"cfr_in_21_days",1.19469261421148,"21d-lagged CFR (%)",TRUE
+"539",2021-09-25,"National","national",NA,"cfr_in_21_days",1.27486736488571,"21d-lagged CFR (%)",TRUE
+"540",2021-10-02,"National","national",NA,"cfr_in_21_days",1.41263054831504,"21d-lagged CFR (%)",TRUE
+"541",2021-10-09,"National","national",NA,"cfr_in_21_days",1.42703626893127,"21d-lagged CFR (%)",TRUE
+"542",2021-10-16,"National","national",NA,"cfr_in_21_days",1.46853969460312,"21d-lagged CFR (%)",TRUE
+"543",2021-10-23,"National","national",NA,"cfr_in_21_days",1.54184816752205,"21d-lagged CFR (%)",TRUE
+"544",2021-10-30,"National","national",NA,"cfr_in_21_days",1.58537761959367,"21d-lagged CFR (%)",TRUE
+"545",2021-11-06,"National","national",NA,"cfr_in_21_days",1.39517152638975,"21d-lagged CFR (%)",TRUE
+"546",2021-11-13,"National","national",NA,"cfr_in_21_days",1.46779545072648,"21d-lagged CFR (%)",TRUE
+"547",2021-11-20,"National","national",NA,"cfr_in_21_days",1.43206612950453,"21d-lagged CFR (%)",TRUE
+"548",2021-11-27,"National","national",NA,"cfr_in_21_days",1.52184791815379,"21d-lagged CFR (%)",TRUE
+"549",2021-12-04,"National","national",NA,"cfr_in_21_days",1.25092731115999,"21d-lagged CFR (%)",TRUE
+"550",2021-12-11,"National","national",NA,"cfr_in_21_days",1.04493270418812,"21d-lagged CFR (%)",TRUE
+"551",2021-12-18,"National","national",NA,"cfr_in_21_days",1.18799473108911,"21d-lagged CFR (%)",TRUE
+"552",2021-12-25,"National","national",NA,"cfr_in_21_days",1.00136062850424,"21d-lagged CFR (%)",TRUE
+"553",2022-01-01,"National","national",NA,"cfr_in_21_days",0.561364881653392,"21d-lagged CFR (%)",TRUE
+"554",2022-01-08,"National","national",NA,"cfr_in_21_days",0.395108716552237,"21d-lagged CFR (%)",TRUE
+"555",2022-01-15,"National","national",NA,"cfr_in_21_days",0.324904781930404,"21d-lagged CFR (%)",TRUE
+"556",2022-01-22,"National","national",NA,"cfr_in_21_days",0.348230698739245,"21d-lagged CFR (%)",TRUE
+"557",2022-01-29,"National","national",NA,"cfr_in_21_days",0.419530803392199,"21d-lagged CFR (%)",TRUE
+"558",2022-02-05,"National","national",NA,"cfr_in_21_days",0.617053779856215,"21d-lagged CFR (%)",TRUE
+"559",2022-02-12,"National","national",NA,"cfr_in_21_days",0.865506674235271,"21d-lagged CFR (%)",TRUE
+"560",2022-02-19,"National","national",NA,"cfr_in_21_days",1.23560322078535,"21d-lagged CFR (%)",TRUE
+"561",2022-02-26,"National","national",NA,"cfr_in_21_days",1.70018401572307,"21d-lagged CFR (%)",TRUE
+"562",2022-03-05,"National","national",NA,"cfr_in_21_days",1.77993755428786,"21d-lagged CFR (%)",TRUE
+"563",2022-03-12,"National","national",NA,"cfr_in_21_days",1.92239794813431,"21d-lagged CFR (%)",TRUE
+"564",2022-03-19,"National","national",NA,"cfr_in_21_days",1.91371309922704,"21d-lagged CFR (%)",TRUE
+"565",2022-03-26,"National","national",NA,"cfr_in_21_days",1.49770801303463,"21d-lagged CFR (%)",TRUE
+"566",2022-04-02,"National","national",NA,"cfr_in_21_days",1.37432640983378,"21d-lagged CFR (%)",TRUE
+"567",2022-04-09,"National","national",NA,"cfr_in_21_days",1.065519288945,"21d-lagged CFR (%)",TRUE
+"568",2022-04-16,"National","national",NA,"cfr_in_21_days",0.995926954347706,"21d-lagged CFR (%)",TRUE
+"569",2022-04-23,"National","national",NA,"cfr_in_21_days",0.69933662104343,"21d-lagged CFR (%)",TRUE
+"570",2022-04-30,"National","national",NA,"cfr_in_21_days",0.576081465129918,"21d-lagged CFR (%)",TRUE
+"571",2022-05-07,"National","national",NA,"cfr_in_21_days",0.54893626409628,"21d-lagged CFR (%)",TRUE
+"572",2022-05-14,"National","national",NA,"cfr_in_21_days",0.306442023375709,"21d-lagged CFR (%)",TRUE
+"573",2022-05-21,"National","national",NA,"cfr_in_21_days",0.31468290381264,"21d-lagged CFR (%)",TRUE
+"574",2022-05-28,"National","national",NA,"cfr_in_21_days",0.290362904789855,"21d-lagged CFR (%)",TRUE
+"575",2022-06-04,"National","national",NA,"cfr_in_21_days",0.355637542806897,"21d-lagged CFR (%)",TRUE
+"576",2022-06-11,"National","national",NA,"cfr_in_21_days",0.360507729913197,"21d-lagged CFR (%)",TRUE
+"577",2022-06-18,"National","national",NA,"cfr_in_21_days",0.325558432991894,"21d-lagged CFR (%)",TRUE
+"578",2022-06-25,"National","national",NA,"cfr_in_21_days",NA,"21d-lagged CFR (%)",TRUE
+"579",2022-07-02,"National","national",NA,"cfr_in_21_days",NA,"21d-lagged CFR (%)",TRUE
+"580",2022-07-09,"National","national",NA,"cfr_in_21_days",NA,"21d-lagged CFR (%)",TRUE
+"581",2021-06-05,"Northeast","regional","Northeast","hfr_in_21_days",10.8460076045627,"21d-lagged HFR (%)",FALSE
+"582",2021-06-12,"Northeast","regional","Northeast","hfr_in_21_days",10.0292397660819,"21d-lagged HFR (%)",FALSE
+"583",2021-06-19,"Northeast","regional","Northeast","hfr_in_21_days",9.93162393162393,"21d-lagged HFR (%)",FALSE
+"584",2021-06-26,"Northeast","regional","Northeast","hfr_in_21_days",13.1578498293515,"21d-lagged HFR (%)",FALSE
+"585",2021-07-03,"Northeast","regional","Northeast","hfr_in_21_days",15.1104815864023,"21d-lagged HFR (%)",FALSE
+"586",2021-07-10,"Northeast","regional","Northeast","hfr_in_21_days",14.2045662100457,"21d-lagged HFR (%)",FALSE
+"587",2021-07-17,"Northeast","regional","Northeast","hfr_in_21_days",15.8666666666667,"21d-lagged HFR (%)",FALSE
+"588",2021-07-24,"Northeast","regional","Northeast","hfr_in_21_days",18.4692635423007,"21d-lagged HFR (%)",FALSE
+"589",2021-07-31,"Northeast","regional","Northeast","hfr_in_21_days",18.0157411456056,"21d-lagged HFR (%)",FALSE
+"590",2021-08-07,"Northeast","regional","Northeast","hfr_in_21_days",15.4323995127893,"21d-lagged HFR (%)",FALSE
+"591",2021-08-14,"Northeast","regional","Northeast","hfr_in_21_days",13.2725490196078,"21d-lagged HFR (%)",FALSE
+"592",2021-08-21,"Northeast","regional","Northeast","hfr_in_21_days",12.9312080536913,"21d-lagged HFR (%)",FALSE
+"593",2021-08-28,"Northeast","regional","Northeast","hfr_in_21_days",14.0117037284735,"21d-lagged HFR (%)",FALSE
+"594",2021-09-04,"Northeast","regional","Northeast","hfr_in_21_days",15.1195849118761,"21d-lagged HFR (%)",FALSE
+"595",2021-09-11,"Northeast","regional","Northeast","hfr_in_21_days",16.0527729499131,"21d-lagged HFR (%)",FALSE
+"596",2021-09-18,"Northeast","regional","Northeast","hfr_in_21_days",16.3505933117584,"21d-lagged HFR (%)",FALSE
+"597",2021-09-25,"Northeast","regional","Northeast","hfr_in_21_days",16.9288749016522,"21d-lagged HFR (%)",FALSE
+"598",2021-10-02,"Northeast","regional","Northeast","hfr_in_21_days",16.4514011208967,"21d-lagged HFR (%)",FALSE
+"599",2021-10-09,"Northeast","regional","Northeast","hfr_in_21_days",16.6789413118527,"21d-lagged HFR (%)",FALSE
+"600",2021-10-16,"Northeast","regional","Northeast","hfr_in_21_days",17.026814386641,"21d-lagged HFR (%)",FALSE
+"601",2021-10-23,"Northeast","regional","Northeast","hfr_in_21_days",15.9202495363345,"21d-lagged HFR (%)",FALSE
+"602",2021-10-30,"Northeast","regional","Northeast","hfr_in_21_days",20.8786050895382,"21d-lagged HFR (%)",FALSE
+"603",2021-11-06,"Northeast","regional","Northeast","hfr_in_21_days",16.834029624003,"21d-lagged HFR (%)",FALSE
+"604",2021-11-13,"Northeast","regional","Northeast","hfr_in_21_days",23.4041396246273,"21d-lagged HFR (%)",FALSE
+"605",2021-11-20,"Northeast","regional","Northeast","hfr_in_21_days",21.2223948037278,"21d-lagged HFR (%)",FALSE
+"606",2021-11-27,"Northeast","regional","Northeast","hfr_in_21_days",21.6145520144318,"21d-lagged HFR (%)",FALSE
+"607",2021-12-04,"Northeast","regional","Northeast","hfr_in_21_days",18.979628882614,"21d-lagged HFR (%)",FALSE
+"608",2021-12-11,"Northeast","regional","Northeast","hfr_in_21_days",16.151878914405,"21d-lagged HFR (%)",FALSE
+"609",2021-12-18,"Northeast","regional","Northeast","hfr_in_21_days",23.5263157894737,"21d-lagged HFR (%)",FALSE
+"610",2021-12-25,"Northeast","regional","Northeast","hfr_in_21_days",26.6600574924449,"21d-lagged HFR (%)",FALSE
+"611",2022-01-01,"Northeast","regional","Northeast","hfr_in_21_days",17.3125635696281,"21d-lagged HFR (%)",FALSE
+"612",2022-01-08,"Northeast","regional","Northeast","hfr_in_21_days",13.8616041859849,"21d-lagged HFR (%)",FALSE
+"613",2022-01-15,"Northeast","regional","Northeast","hfr_in_21_days",10.8970858844391,"21d-lagged HFR (%)",FALSE
+"614",2022-01-22,"Northeast","regional","Northeast","hfr_in_21_days",11.2316930919774,"21d-lagged HFR (%)",FALSE
+"615",2022-01-29,"Northeast","regional","Northeast","hfr_in_21_days",11.6407587323618,"21d-lagged HFR (%)",FALSE
+"616",2022-02-05,"Northeast","regional","Northeast","hfr_in_21_days",13.2639848066298,"21d-lagged HFR (%)",FALSE
+"617",2022-02-12,"Northeast","regional","Northeast","hfr_in_21_days",13.3661124867351,"21d-lagged HFR (%)",FALSE
+"618",2022-02-19,"Northeast","regional","Northeast","hfr_in_21_days",14.9054846498793,"21d-lagged HFR (%)",FALSE
+"619",2022-02-26,"Northeast","regional","Northeast","hfr_in_21_days",13.9513561981618,"21d-lagged HFR (%)",FALSE
+"620",2022-03-05,"Northeast","regional","Northeast","hfr_in_21_days",12.6728254690165,"21d-lagged HFR (%)",FALSE
+"621",2022-03-12,"Northeast","regional","Northeast","hfr_in_21_days",12.3967828418231,"21d-lagged HFR (%)",FALSE
+"622",2022-03-19,"Northeast","regional","Northeast","hfr_in_21_days",12.9574468085106,"21d-lagged HFR (%)",FALSE
+"623",2022-03-26,"Northeast","regional","Northeast","hfr_in_21_days",16.0219123505976,"21d-lagged HFR (%)",FALSE
+"624",2022-04-02,"Northeast","regional","Northeast","hfr_in_21_days",16.0656279508971,"21d-lagged HFR (%)",FALSE
+"625",2022-04-09,"Northeast","regional","Northeast","hfr_in_21_days",13.5828571428571,"21d-lagged HFR (%)",FALSE
+"626",2022-04-16,"Northeast","regional","Northeast","hfr_in_21_days",14.0552995391705,"21d-lagged HFR (%)",FALSE
+"627",2022-04-23,"Northeast","regional","Northeast","hfr_in_21_days",11.4941050375134,"21d-lagged HFR (%)",FALSE
+"628",2022-04-30,"Northeast","regional","Northeast","hfr_in_21_days",10.0671431665584,"21d-lagged HFR (%)",FALSE
+"629",2022-05-07,"Northeast","regional","Northeast","hfr_in_21_days",11.3426918495831,"21d-lagged HFR (%)",FALSE
+"630",2022-05-14,"Northeast","regional","Northeast","hfr_in_21_days",7.82125899831521,"21d-lagged HFR (%)",FALSE
+"631",2022-05-21,"Northeast","regional","Northeast","hfr_in_21_days",7.79807830202208,"21d-lagged HFR (%)",FALSE
+"632",2022-05-28,"Northeast","regional","Northeast","hfr_in_21_days",8.17533129459735,"21d-lagged HFR (%)",FALSE
+"633",2022-06-04,"Northeast","regional","Northeast","hfr_in_21_days",6.41223140495868,"21d-lagged HFR (%)",FALSE
+"634",2022-06-11,"Northeast","regional","Northeast","hfr_in_21_days",7.04757531227039,"21d-lagged HFR (%)",FALSE
+"635",2022-06-18,"Northeast","regional","Northeast","hfr_in_21_days",7.36746868164645,"21d-lagged HFR (%)",FALSE
+"636",2022-06-25,"Northeast","regional","Northeast","hfr_in_21_days",NA,"21d-lagged HFR (%)",FALSE
+"637",2022-07-02,"Northeast","regional","Northeast","hfr_in_21_days",NA,"21d-lagged HFR (%)",FALSE
+"638",2022-07-09,"Northeast","regional","Northeast","hfr_in_21_days",NA,"21d-lagged HFR (%)",FALSE
+"639",2021-06-05,"Midwest","regional","Midwest","hfr_in_21_days",15.0487875288684,"21d-lagged HFR (%)",FALSE
+"640",2021-06-12,"Midwest","regional","Midwest","hfr_in_21_days",13.9670366633031,"21d-lagged HFR (%)",FALSE
+"641",2021-06-19,"Midwest","regional","Midwest","hfr_in_21_days",13.7238979118329,"21d-lagged HFR (%)",FALSE
+"642",2021-06-26,"Midwest","regional","Midwest","hfr_in_21_days",17.2545779365788,"21d-lagged HFR (%)",FALSE
+"643",2021-07-03,"Midwest","regional","Midwest","hfr_in_21_days",15.4783715012723,"21d-lagged HFR (%)",FALSE
+"644",2021-07-10,"Midwest","regional","Midwest","hfr_in_21_days",14.2847014925373,"21d-lagged HFR (%)",FALSE
+"645",2021-07-17,"Midwest","regional","Midwest","hfr_in_21_days",15.4947275922671,"21d-lagged HFR (%)",FALSE
+"646",2021-07-24,"Midwest","regional","Midwest","hfr_in_21_days",15.2288748305468,"21d-lagged HFR (%)",FALSE
+"647",2021-07-31,"Midwest","regional","Midwest","hfr_in_21_days",13.9207954740271,"21d-lagged HFR (%)",FALSE
+"648",2021-08-07,"Midwest","regional","Midwest","hfr_in_21_days",14.0305960264901,"21d-lagged HFR (%)",FALSE
+"649",2021-08-14,"Midwest","regional","Midwest","hfr_in_21_days",12.2584523687185,"21d-lagged HFR (%)",FALSE
+"650",2021-08-21,"Midwest","regional","Midwest","hfr_in_21_days",11.8452066842568,"21d-lagged HFR (%)",FALSE
+"651",2021-08-28,"Midwest","regional","Midwest","hfr_in_21_days",13.5832594860227,"21d-lagged HFR (%)",FALSE
+"652",2021-09-04,"Midwest","regional","Midwest","hfr_in_21_days",14.0464885496183,"21d-lagged HFR (%)",FALSE
+"653",2021-09-11,"Midwest","regional","Midwest","hfr_in_21_days",13.9582211223524,"21d-lagged HFR (%)",FALSE
+"654",2021-09-18,"Midwest","regional","Midwest","hfr_in_21_days",14.1411108728287,"21d-lagged HFR (%)",FALSE
+"655",2021-09-25,"Midwest","regional","Midwest","hfr_in_21_days",14.2831033470346,"21d-lagged HFR (%)",FALSE
+"656",2021-10-02,"Midwest","regional","Midwest","hfr_in_21_days",16.7991149043781,"21d-lagged HFR (%)",FALSE
+"657",2021-10-09,"Midwest","regional","Midwest","hfr_in_21_days",17.5137142857143,"21d-lagged HFR (%)",FALSE
+"658",2021-10-16,"Midwest","regional","Midwest","hfr_in_21_days",17.1409493024838,"21d-lagged HFR (%)",FALSE
+"659",2021-10-23,"Midwest","regional","Midwest","hfr_in_21_days",19.0125023859515,"21d-lagged HFR (%)",FALSE
+"660",2021-10-30,"Midwest","regional","Midwest","hfr_in_21_days",20.0973184694185,"21d-lagged HFR (%)",FALSE
+"661",2021-11-06,"Midwest","regional","Midwest","hfr_in_21_days",19.5029137529138,"21d-lagged HFR (%)",FALSE
+"662",2021-11-13,"Midwest","regional","Midwest","hfr_in_21_days",18.7685244845361,"21d-lagged HFR (%)",FALSE
+"663",2021-11-20,"Midwest","regional","Midwest","hfr_in_21_days",20.4120290356032,"21d-lagged HFR (%)",FALSE
+"664",2021-11-27,"Midwest","regional","Midwest","hfr_in_21_days",19.6812404052809,"21d-lagged HFR (%)",FALSE
+"665",2021-12-04,"Midwest","regional","Midwest","hfr_in_21_days",18.2612874267307,"21d-lagged HFR (%)",FALSE
+"666",2021-12-11,"Midwest","regional","Midwest","hfr_in_21_days",13.7700081421524,"21d-lagged HFR (%)",FALSE
+"667",2021-12-18,"Midwest","regional","Midwest","hfr_in_21_days",17.600069735007,"21d-lagged HFR (%)",FALSE
+"668",2021-12-25,"Midwest","regional","Midwest","hfr_in_21_days",21.5188968849077,"21d-lagged HFR (%)",FALSE
+"669",2022-01-01,"Midwest","regional","Midwest","hfr_in_21_days",18.6648571428571,"21d-lagged HFR (%)",FALSE
+"670",2022-01-08,"Midwest","regional","Midwest","hfr_in_21_days",15.5218624438667,"21d-lagged HFR (%)",FALSE
+"671",2022-01-15,"Midwest","regional","Midwest","hfr_in_21_days",14.2554499183713,"21d-lagged HFR (%)",FALSE
+"672",2022-01-22,"Midwest","regional","Midwest","hfr_in_21_days",13.8510315971721,"21d-lagged HFR (%)",FALSE
+"673",2022-01-29,"Midwest","regional","Midwest","hfr_in_21_days",13.2834363675123,"21d-lagged HFR (%)",FALSE
+"674",2022-02-05,"Midwest","regional","Midwest","hfr_in_21_days",18.4994982158787,"21d-lagged HFR (%)",FALSE
+"675",2022-02-12,"Midwest","regional","Midwest","hfr_in_21_days",15.341935483871,"21d-lagged HFR (%)",FALSE
+"676",2022-02-19,"Midwest","regional","Midwest","hfr_in_21_days",19.3387318725521,"21d-lagged HFR (%)",FALSE
+"677",2022-02-26,"Midwest","regional","Midwest","hfr_in_21_days",25.0016053706947,"21d-lagged HFR (%)",FALSE
+"678",2022-03-05,"Midwest","regional","Midwest","hfr_in_21_days",24.4964710627143,"21d-lagged HFR (%)",FALSE
+"679",2022-03-12,"Midwest","regional","Midwest","hfr_in_21_days",31.1041835357625,"21d-lagged HFR (%)",FALSE
+"680",2022-03-19,"Midwest","regional","Midwest","hfr_in_21_days",19.8403473613894,"21d-lagged HFR (%)",FALSE
+"681",2022-03-26,"Midwest","regional","Midwest","hfr_in_21_days",18.4361111111111,"21d-lagged HFR (%)",FALSE
+"682",2022-04-02,"Midwest","regional","Midwest","hfr_in_21_days",20.9015009380863,"21d-lagged HFR (%)",FALSE
+"683",2022-04-09,"Midwest","regional","Midwest","hfr_in_21_days",16.0986590038314,"21d-lagged HFR (%)",FALSE
+"684",2022-04-16,"Midwest","regional","Midwest","hfr_in_21_days",20.0125290023202,"21d-lagged HFR (%)",FALSE
+"685",2022-04-23,"Midwest","regional","Midwest","hfr_in_21_days",16.5236629472874,"21d-lagged HFR (%)",FALSE
+"686",2022-04-30,"Midwest","regional","Midwest","hfr_in_21_days",12.0670611439842,"21d-lagged HFR (%)",FALSE
+"687",2022-05-07,"Midwest","regional","Midwest","hfr_in_21_days",15.8161574313827,"21d-lagged HFR (%)",FALSE
+"688",2022-05-14,"Midwest","regional","Midwest","hfr_in_21_days",6.86186123805567,"21d-lagged HFR (%)",FALSE
+"689",2022-05-21,"Midwest","regional","Midwest","hfr_in_21_days",9.07182422451994,"21d-lagged HFR (%)",FALSE
+"690",2022-05-28,"Midwest","regional","Midwest","hfr_in_21_days",6.95437731196054,"21d-lagged HFR (%)",FALSE
+"691",2022-06-04,"Midwest","regional","Midwest","hfr_in_21_days",9.46523793452582,"21d-lagged HFR (%)",FALSE
+"692",2022-06-11,"Midwest","regional","Midwest","hfr_in_21_days",9.54281266216917,"21d-lagged HFR (%)",FALSE
+"693",2022-06-18,"Midwest","regional","Midwest","hfr_in_21_days",6.14841849148418,"21d-lagged HFR (%)",FALSE
+"694",2022-06-25,"Midwest","regional","Midwest","hfr_in_21_days",NA,"21d-lagged HFR (%)",FALSE
+"695",2022-07-02,"Midwest","regional","Midwest","hfr_in_21_days",NA,"21d-lagged HFR (%)",FALSE
+"696",2022-07-09,"Midwest","regional","Midwest","hfr_in_21_days",NA,"21d-lagged HFR (%)",FALSE
+"697",2021-06-05,"South","regional","South","hfr_in_21_days",11.095648815654,"21d-lagged HFR (%)",FALSE
+"698",2021-06-12,"South","regional","South","hfr_in_21_days",10.3098610920094,"21d-lagged HFR (%)",FALSE
+"699",2021-06-19,"South","regional","South","hfr_in_21_days",9.72106205250597,"21d-lagged HFR (%)",FALSE
+"700",2021-06-26,"South","regional","South","hfr_in_21_days",12.1220531184721,"21d-lagged HFR (%)",FALSE
+"701",2021-07-03,"South","regional","South","hfr_in_21_days",12.8982335881888,"21d-lagged HFR (%)",FALSE
+"702",2021-07-10,"South","regional","South","hfr_in_21_days",13.3209441971219,"21d-lagged HFR (%)",FALSE
+"703",2021-07-17,"South","regional","South","hfr_in_21_days",15.0225409836066,"21d-lagged HFR (%)",FALSE
+"704",2021-07-24,"South","regional","South","hfr_in_21_days",14.9912593225975,"21d-lagged HFR (%)",FALSE
+"705",2021-07-31,"South","regional","South","hfr_in_21_days",14.5148842337376,"21d-lagged HFR (%)",FALSE
+"706",2021-08-07,"South","regional","South","hfr_in_21_days",13.5587551172311,"21d-lagged HFR (%)",FALSE
+"707",2021-08-14,"South","regional","South","hfr_in_21_days",13.8941725481122,"21d-lagged HFR (%)",FALSE
+"708",2021-08-21,"South","regional","South","hfr_in_21_days",14.1342645277339,"21d-lagged HFR (%)",FALSE
+"709",2021-08-28,"South","regional","South","hfr_in_21_days",16.8166184358469,"21d-lagged HFR (%)",FALSE
+"710",2021-09-04,"South","regional","South","hfr_in_21_days",18.2465124322662,"21d-lagged HFR (%)",FALSE
+"711",2021-09-11,"South","regional","South","hfr_in_21_days",16.5458147286334,"21d-lagged HFR (%)",FALSE
+"712",2021-09-18,"South","regional","South","hfr_in_21_days",17.7599142286742,"21d-lagged HFR (%)",FALSE
+"713",2021-09-25,"South","regional","South","hfr_in_21_days",17.8615398863917,"21d-lagged HFR (%)",FALSE
+"714",2021-10-02,"South","regional","South","hfr_in_21_days",20.3333333333333,"21d-lagged HFR (%)",FALSE
+"715",2021-10-09,"South","regional","South","hfr_in_21_days",20.339302368961,"21d-lagged HFR (%)",FALSE
+"716",2021-10-16,"South","regional","South","hfr_in_21_days",20.2502546112934,"21d-lagged HFR (%)",FALSE
+"717",2021-10-23,"South","regional","South","hfr_in_21_days",21.2054320987654,"21d-lagged HFR (%)",FALSE
+"718",2021-10-30,"South","regional","South","hfr_in_21_days",23.0774957698816,"21d-lagged HFR (%)",FALSE
+"719",2021-11-06,"South","regional","South","hfr_in_21_days",22.5990659777424,"21d-lagged HFR (%)",FALSE
+"720",2021-11-13,"South","regional","South","hfr_in_21_days",26.0196587166949,"21d-lagged HFR (%)",FALSE
+"721",2021-11-20,"South","regional","South","hfr_in_21_days",25.926624939817,"21d-lagged HFR (%)",FALSE
+"722",2021-11-27,"South","regional","South","hfr_in_21_days",20.6921995124695,"21d-lagged HFR (%)",FALSE
+"723",2021-12-04,"South","regional","South","hfr_in_21_days",18.8119678910241,"21d-lagged HFR (%)",FALSE
+"724",2021-12-11,"South","regional","South","hfr_in_21_days",17.7258468810428,"21d-lagged HFR (%)",FALSE
+"725",2021-12-18,"South","regional","South","hfr_in_21_days",17.97486014693,"21d-lagged HFR (%)",FALSE
+"726",2021-12-25,"South","regional","South","hfr_in_21_days",19.1959133381251,"21d-lagged HFR (%)",FALSE
+"727",2022-01-01,"South","regional","South","hfr_in_21_days",11.4297468186989,"21d-lagged HFR (%)",FALSE
+"728",2022-01-08,"South","regional","South","hfr_in_21_days",10.4211946871227,"21d-lagged HFR (%)",FALSE
+"729",2022-01-15,"South","regional","South","hfr_in_21_days",11.1465721773381,"21d-lagged HFR (%)",FALSE
+"730",2022-01-22,"South","regional","South","hfr_in_21_days",11.5777373129602,"21d-lagged HFR (%)",FALSE
+"731",2022-01-29,"South","regional","South","hfr_in_21_days",12.9446260170905,"21d-lagged HFR (%)",FALSE
+"732",2022-02-05,"South","regional","South","hfr_in_21_days",12.3955688002073,"21d-lagged HFR (%)",FALSE
+"733",2022-02-12,"South","regional","South","hfr_in_21_days",15.2931316434996,"21d-lagged HFR (%)",FALSE
+"734",2022-02-19,"South","regional","South","hfr_in_21_days",19.3103760175733,"21d-lagged HFR (%)",FALSE
+"735",2022-02-26,"South","regional","South","hfr_in_21_days",23.5545443053975,"21d-lagged HFR (%)",FALSE
+"736",2022-03-05,"South","regional","South","hfr_in_21_days",22.3788168808677,"21d-lagged HFR (%)",FALSE
+"737",2022-03-12,"South","regional","South","hfr_in_21_days",23.6857979129549,"21d-lagged HFR (%)",FALSE
+"738",2022-03-19,"South","regional","South","hfr_in_21_days",32.5042630937881,"21d-lagged HFR (%)",FALSE
+"739",2022-03-26,"South","regional","South","hfr_in_21_days",30.6501266891892,"21d-lagged HFR (%)",FALSE
+"740",2022-04-02,"South","regional","South","hfr_in_21_days",27.032393669634,"21d-lagged HFR (%)",FALSE
+"741",2022-04-09,"South","regional","South","hfr_in_21_days",23.3057897695334,"21d-lagged HFR (%)",FALSE
+"742",2022-04-16,"South","regional","South","hfr_in_21_days",25.7298331966092,"21d-lagged HFR (%)",FALSE
+"743",2022-04-23,"South","regional","South","hfr_in_21_days",18.9522821576764,"21d-lagged HFR (%)",FALSE
+"744",2022-04-30,"South","regional","South","hfr_in_21_days",16.184126984127,"21d-lagged HFR (%)",FALSE
+"745",2022-05-07,"South","regional","South","hfr_in_21_days",12.6590909090909,"21d-lagged HFR (%)",FALSE
+"746",2022-05-14,"South","regional","South","hfr_in_21_days",9.02322134387352,"21d-lagged HFR (%)",FALSE
+"747",2022-05-21,"South","regional","South","hfr_in_21_days",8.22083495903238,"21d-lagged HFR (%)",FALSE
+"748",2022-05-28,"South","regional","South","hfr_in_21_days",7.72672471533824,"21d-lagged HFR (%)",FALSE
+"749",2022-06-04,"South","regional","South","hfr_in_21_days",9.09122840326562,"21d-lagged HFR (%)",FALSE
+"750",2022-06-11,"South","regional","South","hfr_in_21_days",9.35086670651524,"21d-lagged HFR (%)",FALSE
+"751",2022-06-18,"South","regional","South","hfr_in_21_days",6.97728677379481,"21d-lagged HFR (%)",FALSE
+"752",2022-06-25,"South","regional","South","hfr_in_21_days",NA,"21d-lagged HFR (%)",FALSE
+"753",2022-07-02,"South","regional","South","hfr_in_21_days",NA,"21d-lagged HFR (%)",FALSE
+"754",2022-07-09,"South","regional","South","hfr_in_21_days",NA,"21d-lagged HFR (%)",FALSE
+"755",2021-06-05,"West","regional","West","hfr_in_21_days",17.337061668682,"21d-lagged HFR (%)",FALSE
+"756",2021-06-12,"West","regional","West","hfr_in_21_days",17.2429245283019,"21d-lagged HFR (%)",FALSE
+"757",2021-06-19,"West","regional","West","hfr_in_21_days",15.4966170500677,"21d-lagged HFR (%)",FALSE
+"758",2021-06-26,"West","regional","West","hfr_in_21_days",17.4235907461714,"21d-lagged HFR (%)",FALSE
+"759",2021-07-03,"West","regional","West","hfr_in_21_days",11.4602851323829,"21d-lagged HFR (%)",FALSE
+"760",2021-07-10,"West","regional","West","hfr_in_21_days",14.4620890774125,"21d-lagged HFR (%)",FALSE
+"761",2021-07-17,"West","regional","West","hfr_in_21_days",16.2250104558762,"21d-lagged HFR (%)",FALSE
+"762",2021-07-24,"West","regional","West","hfr_in_21_days",12.942726231386,"21d-lagged HFR (%)",FALSE
+"763",2021-07-31,"West","regional","West","hfr_in_21_days",13.2953132472501,"21d-lagged HFR (%)",FALSE
+"764",2021-08-07,"West","regional","West","hfr_in_21_days",14.2527927580894,"21d-lagged HFR (%)",FALSE
+"765",2021-08-14,"West","regional","West","hfr_in_21_days",14.3417508417508,"21d-lagged HFR (%)",FALSE
+"766",2021-08-21,"West","regional","West","hfr_in_21_days",12.8830161579892,"21d-lagged HFR (%)",FALSE
+"767",2021-08-28,"West","regional","West","hfr_in_21_days",15.8355965082444,"21d-lagged HFR (%)",FALSE
+"768",2021-09-04,"West","regional","West","hfr_in_21_days",15.3570630152298,"21d-lagged HFR (%)",FALSE
+"769",2021-09-11,"West","regional","West","hfr_in_21_days",16.5591510350497,"21d-lagged HFR (%)",FALSE
+"770",2021-09-18,"West","regional","West","hfr_in_21_days",17.0605368360937,"21d-lagged HFR (%)",FALSE
+"771",2021-09-25,"West","regional","West","hfr_in_21_days",17.0427956217477,"21d-lagged HFR (%)",FALSE
+"772",2021-10-02,"West","regional","West","hfr_in_21_days",22.1199164760863,"21d-lagged HFR (%)",FALSE
+"773",2021-10-09,"West","regional","West","hfr_in_21_days",20.7937159872677,"21d-lagged HFR (%)",FALSE
+"774",2021-10-16,"West","regional","West","hfr_in_21_days",20.3660685847755,"21d-lagged HFR (%)",FALSE
+"775",2021-10-23,"West","regional","West","hfr_in_21_days",20.4216587427364,"21d-lagged HFR (%)",FALSE
+"776",2021-10-30,"West","regional","West","hfr_in_21_days",21.2010759236703,"21d-lagged HFR (%)",FALSE
+"777",2021-11-06,"West","regional","West","hfr_in_21_days",17.8820372620494,"21d-lagged HFR (%)",FALSE
+"778",2021-11-13,"West","regional","West","hfr_in_21_days",20.7776273304864,"21d-lagged HFR (%)",FALSE
+"779",2021-11-20,"West","regional","West","hfr_in_21_days",20.9473070398643,"21d-lagged HFR (%)",FALSE
+"780",2021-11-27,"West","regional","West","hfr_in_21_days",21.0889063729347,"21d-lagged HFR (%)",FALSE
+"781",2021-12-04,"West","regional","West","hfr_in_21_days",19.7839526117394,"21d-lagged HFR (%)",FALSE
+"782",2021-12-11,"West","regional","West","hfr_in_21_days",15.9759101220698,"21d-lagged HFR (%)",FALSE
+"783",2021-12-18,"West","regional","West","hfr_in_21_days",18.9064003849856,"21d-lagged HFR (%)",FALSE
+"784",2021-12-25,"West","regional","West","hfr_in_21_days",24.6785592546302,"21d-lagged HFR (%)",FALSE
+"785",2022-01-01,"West","regional","West","hfr_in_21_days",15.2432651258649,"21d-lagged HFR (%)",FALSE
+"786",2022-01-08,"West","regional","West","hfr_in_21_days",14.8573608285556,"21d-lagged HFR (%)",FALSE
+"787",2022-01-15,"West","regional","West","hfr_in_21_days",11.6417943027613,"21d-lagged HFR (%)",FALSE
+"788",2022-01-22,"West","regional","West","hfr_in_21_days",11.5431491425602,"21d-lagged HFR (%)",FALSE
+"789",2022-01-29,"West","regional","West","hfr_in_21_days",11.0368370083433,"21d-lagged HFR (%)",FALSE
+"790",2022-02-05,"West","regional","West","hfr_in_21_days",11.6038676892674,"21d-lagged HFR (%)",FALSE
+"791",2022-02-12,"West","regional","West","hfr_in_21_days",13.7715341727745,"21d-lagged HFR (%)",FALSE
+"792",2022-02-19,"West","regional","West","hfr_in_21_days",16.4372866520788,"21d-lagged HFR (%)",FALSE
+"793",2022-02-26,"West","regional","West","hfr_in_21_days",21.7481978622918,"21d-lagged HFR (%)",FALSE
+"794",2022-03-05,"West","regional","West","hfr_in_21_days",23.6676413255361,"21d-lagged HFR (%)",FALSE
+"795",2022-03-12,"West","regional","West","hfr_in_21_days",26.736217878322,"21d-lagged HFR (%)",FALSE
+"796",2022-03-19,"West","regional","West","hfr_in_21_days",33.716457960644,"21d-lagged HFR (%)",FALSE
+"797",2022-03-26,"West","regional","West","hfr_in_21_days",30.441803565187,"21d-lagged HFR (%)",FALSE
+"798",2022-04-02,"West","regional","West","hfr_in_21_days",31.0302756439223,"21d-lagged HFR (%)",FALSE
+"799",2022-04-09,"West","regional","West","hfr_in_21_days",33.7179015186378,"21d-lagged HFR (%)",FALSE
+"800",2022-04-16,"West","regional","West","hfr_in_21_days",36.7088544272136,"21d-lagged HFR (%)",FALSE
+"801",2022-04-23,"West","regional","West","hfr_in_21_days",24.3220858895706,"21d-lagged HFR (%)",FALSE
+"802",2022-04-30,"West","regional","West","hfr_in_21_days",21.0512820512821,"21d-lagged HFR (%)",FALSE
+"803",2022-05-07,"West","regional","West","hfr_in_21_days",18.5061425061425,"21d-lagged HFR (%)",FALSE
+"804",2022-05-14,"West","regional","West","hfr_in_21_days",12.1088709677419,"21d-lagged HFR (%)",FALSE
+"805",2022-05-21,"West","regional","West","hfr_in_21_days",12.8685534591195,"21d-lagged HFR (%)",FALSE
+"806",2022-05-28,"West","regional","West","hfr_in_21_days",8.80010670460608,"21d-lagged HFR (%)",FALSE
+"807",2022-06-04,"West","regional","West","hfr_in_21_days",8.48167791706847,"21d-lagged HFR (%)",FALSE
+"808",2022-06-11,"West","regional","West","hfr_in_21_days",8.70818605966351,"21d-lagged HFR (%)",FALSE
+"809",2022-06-18,"West","regional","West","hfr_in_21_days",8.24155735417248,"21d-lagged HFR (%)",FALSE
+"810",2022-06-25,"West","regional","West","hfr_in_21_days",NA,"21d-lagged HFR (%)",FALSE
+"811",2022-07-02,"West","regional","West","hfr_in_21_days",NA,"21d-lagged HFR (%)",FALSE
+"812",2022-07-09,"West","regional","West","hfr_in_21_days",NA,"21d-lagged HFR (%)",FALSE
+"813",2021-06-05,"National","national",NA,"hfr_in_21_days",13.1273131458784,"21d-lagged HFR (%)",TRUE
+"814",2021-06-12,"National","national",NA,"hfr_in_21_days",12.3853370861815,"21d-lagged HFR (%)",TRUE
+"815",2021-06-19,"National","national",NA,"hfr_in_21_days",11.7675312199808,"21d-lagged HFR (%)",TRUE
+"816",2021-06-26,"National","national",NA,"hfr_in_21_days",14.3202093764224,"21d-lagged HFR (%)",TRUE
+"817",2021-07-03,"National","national",NA,"hfr_in_21_days",13.1395429362881,"21d-lagged HFR (%)",TRUE
+"818",2021-07-10,"National","national",NA,"hfr_in_21_days",13.7774613506916,"21d-lagged HFR (%)",TRUE
+"819",2021-07-17,"National","national",NA,"hfr_in_21_days",15.3854198307659,"21d-lagged HFR (%)",TRUE
+"820",2021-07-24,"National","national",NA,"hfr_in_21_days",14.8181517257982,"21d-lagged HFR (%)",TRUE
+"821",2021-07-31,"National","national",NA,"hfr_in_21_days",14.3975408986295,"21d-lagged HFR (%)",TRUE
+"822",2021-08-07,"National","national",NA,"hfr_in_21_days",13.8223018221461,"21d-lagged HFR (%)",TRUE
+"823",2021-08-14,"National","national",NA,"hfr_in_21_days",13.7265075712306,"21d-lagged HFR (%)",TRUE
+"824",2021-08-21,"National","national",NA,"hfr_in_21_days",13.5481377949519,"21d-lagged HFR (%)",TRUE
+"825",2021-08-28,"National","national",NA,"hfr_in_21_days",16.0004593424513,"21d-lagged HFR (%)",TRUE
+"826",2021-09-04,"National","national",NA,"hfr_in_21_days",16.8976580495048,"21d-lagged HFR (%)",TRUE
+"827",2021-09-11,"National","national",NA,"hfr_in_21_days",16.0714831427445,"21d-lagged HFR (%)",TRUE
+"828",2021-09-18,"National","national",NA,"hfr_in_21_days",16.82767228679,"21d-lagged HFR (%)",TRUE
+"829",2021-09-25,"National","national",NA,"hfr_in_21_days",16.8569989136767,"21d-lagged HFR (%)",TRUE
+"830",2021-10-02,"National","national",NA,"hfr_in_21_days",19.4007059124742,"21d-lagged HFR (%)",TRUE
+"831",2021-10-09,"National","national",NA,"hfr_in_21_days",19.2799701106713,"21d-lagged HFR (%)",TRUE
+"832",2021-10-16,"National","national",NA,"hfr_in_21_days",19.018191095237,"21d-lagged HFR (%)",TRUE
+"833",2021-10-23,"National","national",NA,"hfr_in_21_days",19.6637618916827,"21d-lagged HFR (%)",TRUE
+"834",2021-10-30,"National","national",NA,"hfr_in_21_days",21.4577083446147,"21d-lagged HFR (%)",TRUE
+"835",2021-11-06,"National","national",NA,"hfr_in_21_days",19.5338290800518,"21d-lagged HFR (%)",TRUE
+"836",2021-11-13,"National","national",NA,"hfr_in_21_days",21.9053499032831,"21d-lagged HFR (%)",TRUE
+"837",2021-11-20,"National","national",NA,"hfr_in_21_days",22.0573445508171,"21d-lagged HFR (%)",TRUE
+"838",2021-11-27,"National","national",NA,"hfr_in_21_days",20.5729909652877,"21d-lagged HFR (%)",TRUE
+"839",2021-12-04,"National","national",NA,"hfr_in_21_days",18.817102890769,"21d-lagged HFR (%)",TRUE
+"840",2021-12-11,"National","national",NA,"hfr_in_21_days",15.6233654105585,"21d-lagged HFR (%)",TRUE
+"841",2021-12-18,"National","national",NA,"hfr_in_21_days",19.1827520608751,"21d-lagged HFR (%)",TRUE
+"842",2021-12-25,"National","national",NA,"hfr_in_21_days",22.366495455061,"21d-lagged HFR (%)",TRUE
+"843",2022-01-01,"National","national",NA,"hfr_in_21_days",15.1059513898759,"21d-lagged HFR (%)",TRUE
+"844",2022-01-08,"National","national",NA,"hfr_in_21_days",12.9684226572878,"21d-lagged HFR (%)",TRUE
+"845",2022-01-15,"National","national",NA,"hfr_in_21_days",11.8211127222375,"21d-lagged HFR (%)",TRUE
+"846",2022-01-22,"National","national",NA,"hfr_in_21_days",11.9557634840543,"21d-lagged HFR (%)",TRUE
+"847",2022-01-29,"National","national",NA,"hfr_in_21_days",12.4236550288505,"21d-lagged HFR (%)",TRUE
+"848",2022-02-05,"National","national",NA,"hfr_in_21_days",13.4535903008828,"21d-lagged HFR (%)",TRUE
+"849",2022-02-12,"National","national",NA,"hfr_in_21_days",14.7443984998558,"21d-lagged HFR (%)",TRUE
+"850",2022-02-19,"National","national",NA,"hfr_in_21_days",18.1458095295368,"21d-lagged HFR (%)",TRUE
+"851",2022-02-26,"National","national",NA,"hfr_in_21_days",22.2055655041073,"21d-lagged HFR (%)",TRUE
+"852",2022-03-05,"National","national",NA,"hfr_in_21_days",21.7652319950008,"21d-lagged HFR (%)",TRUE
+"853",2022-03-12,"National","national",NA,"hfr_in_21_days",24.3211405991349,"21d-lagged HFR (%)",TRUE
+"854",2022-03-19,"National","national",NA,"hfr_in_21_days",27.0727475437252,"21d-lagged HFR (%)",TRUE
+"855",2022-03-26,"National","national",NA,"hfr_in_21_days",25.6399175257732,"21d-lagged HFR (%)",TRUE
+"856",2022-04-02,"National","national",NA,"hfr_in_21_days",24.4197201865423,"21d-lagged HFR (%)",TRUE
+"857",2022-04-09,"National","national",NA,"hfr_in_21_days",21.7239263803681,"21d-lagged HFR (%)",TRUE
+"858",2022-04-16,"National","national",NA,"hfr_in_21_days",23.3479583371739,"21d-lagged HFR (%)",TRUE
+"859",2022-04-23,"National","national",NA,"hfr_in_21_days",17.1965674873687,"21d-lagged HFR (%)",TRUE
+"860",2022-04-30,"National","national",NA,"hfr_in_21_days",14.1289829042773,"21d-lagged HFR (%)",TRUE
+"861",2022-05-07,"National","national",NA,"hfr_in_21_days",13.9477812517141,"21d-lagged HFR (%)",TRUE
+"862",2022-05-14,"National","national",NA,"hfr_in_21_days",8.70272060563047,"21d-lagged HFR (%)",TRUE
+"863",2022-05-21,"National","national",NA,"hfr_in_21_days",9.17989375402447,"21d-lagged HFR (%)",TRUE
+"864",2022-05-28,"National","national",NA,"hfr_in_21_days",7.90116129032258,"21d-lagged HFR (%)",TRUE
+"865",2022-06-04,"National","national",NA,"hfr_in_21_days",8.47226089377697,"21d-lagged HFR (%)",TRUE
+"866",2022-06-11,"National","national",NA,"hfr_in_21_days",8.81852111033357,"21d-lagged HFR (%)",TRUE
+"867",2022-06-18,"National","national",NA,"hfr_in_21_days",7.17968471822096,"21d-lagged HFR (%)",TRUE
+"868",2022-06-25,"National","national",NA,"hfr_in_21_days",NA,"21d-lagged HFR (%)",TRUE
+"869",2022-07-02,"National","national",NA,"hfr_in_21_days",NA,"21d-lagged HFR (%)",TRUE
+"870",2022-07-09,"National","national",NA,"hfr_in_21_days",NA,"21d-lagged HFR (%)",TRUE

@@ -1,0 +1,12 @@
+"","type","var","round_val","n","mean","median","q25","q75","epoch"
+"1","Start","Weekly cases per 100K",0,102,295,250,222,311,NA
+"2","Start","Weekly hospital admissions per 100K",1,102,15.9,15.1,12.3,17.9,NA
+"3","Start","Percentage of inpatient beds occupied by COVID-19 patients",1,102,7.9,7.9,5.7,9.6,NA
+"4","Start","Weekly deaths per 100K 21 days after start",1,90,2.6,2.4,1.7,3.1,NA
+"5","End","Weekly cases per 100K",0,92,268,237,215,286,NA
+"6","End","Weekly hospital admissions per 100K",1,92,16.7,16,13,20.4,NA
+"7","End","Percentage of inpatient beds occupied by COVID-19 patients",1,92,11.6,12.1,9.5,14.1,NA
+"8","End","Weekly deaths per 100K 21 days after start",1,85,3,2.9,1.7,3.9,NA
+"9",NA,NA,NA,45,2.6,2.4,1.8,3.1,"Per 1"
+"10",NA,NA,NA,39,2.8,2.7,1.9,3.3,"Per 2"
+"11",NA,NA,NA,6,1.1,1,0.9,1.3,"Per 3"

@@ -1,0 +1,12 @@
+"","type","var","round_val","n","mean","median","q25","q75","epoch"
+"1","Start","cases_weekly",0,8304,324,249,202,348,NA
+"2","Start","admits_weekly",1,8304,20.6,18.7,13.3,24.3,NA
+"3","Start","perc_covid_100",1,8304,7.2,6.8,4.4,9.4,NA
+"4","Start","deaths_weekly",1,7987,4.3,2.1,0,5.4,NA
+"5","End","cases_weekly",0,8175,300,250,204,336,NA
+"6","End","admits_weekly",1,8175,19.1,16.7,12.4,22.7,NA
+"7","End","perc_covid_100",1,8175,9.3,9,5.9,12.1,NA
+"8","End","deaths_weekly",1,7964,5.3,3,0,7,NA
+"9",NA,NA,NA,3680,3.8,1.9,0,4.8,"Per 1"
+"10",NA,NA,NA,3859,5,2.5,0,6.2,"Per 2"
+"11",NA,NA,NA,448,2.8,0.5,0,2.6,"Per 3"
